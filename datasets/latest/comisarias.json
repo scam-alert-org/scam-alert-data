@@ -1829,12 +1829,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "pfelizondo@cfnavarra.es"
-      },
-      {
         "kind": "phone",
         "value": "948581864"
+      },
+      {
+        "kind": "email",
+        "value": "pfelizondo@cfnavarra.es"
       }
     ],
     "extra": null
@@ -1859,12 +1859,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "pfestella@cfnavarra.es"
-      },
-      {
         "kind": "phone",
         "value": "948555576"
+      },
+      {
+        "kind": "email",
+        "value": "pfestella@cfnavarra.es"
       }
     ],
     "extra": null
@@ -5227,12 +5227,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "pftafalla@cfnavarra.es"
-      },
-      {
         "kind": "phone",
         "value": "948704265"
+      },
+      {
+        "kind": "email",
+        "value": "pftafalla@cfnavarra.es"
       }
     ],
     "extra": null
@@ -5595,12 +5595,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "pftudela@cfnavarra.es"
-      },
-      {
         "kind": "phone",
         "value": "848434500"
+      },
+      {
+        "kind": "email",
+        "value": "pftudela@cfnavarra.es"
       }
     ],
     "extra": null
