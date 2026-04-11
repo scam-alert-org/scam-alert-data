@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset name="embajadas" count="70">
+  <entity>
+  <id>1afd941a-8568-4ec9-8974-25295bdb0cf0</id>
+  <name>Consulado EEUU en Barcelona</name>
+  <normalized_name>Consulado EEUU en Barcelona</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <city>Barcelona</city>
+  <address>Passeig de la Reina Elisenda 23</address>
+  <lat>41.3975</lat>
+  <lon>2.119</lon>
+    <urls>
+      <url role="map_page">https://www.openstreetmap.org/?mlat=41.3975&amp;mlon=2.119#map=18/41.3975/2.119</url>
+      <url role="official_site">https://es.usembassy.gov</url>
+    </urls>
+    <extra>
+      <sourceName>sync_embassies</sourceName>
+      <legacy_type>consulate</legacy_type>
+      <legacyUpdatedAt>2026-03-27</legacyUpdatedAt>
+    </extra>
+  </entity>
+  <entity>
+  <id>cce0c5cb-6389-4b30-bc2b-26139c2a2b55</id>
+  <name>Embajada de España en Francia</name>
+  <normalized_name>Embajada de España en Francia</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <city>Paris</city>
+  <address>22 Avenue Marceau</address>
+  <lat>48.8685</lat>
+  <lon>2.2987</lon>
+    <urls>
+      <url role="official_site">https://www.exteriores.gob.es</url>
+      <url role="map_page">https://www.openstreetmap.org/?mlat=48.8685&amp;mlon=2.2987#map=18/48.8685/2.2987</url>
+    </urls>
+    <extra>
+      <sourceName>sync_embassies</sourceName>
+      <legacy_type>embassy</legacy_type>
+      <legacyUpdatedAt>2026-03-27</legacyUpdatedAt>
+    </extra>
+  </entity>
+  <entity>
+  <id>5f41c71a-b349-4f48-a54e-886b83497081</id>
+  <name>Embajada de Francia en España</name>
+  <normalized_name>Embajada de Francia en España</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <city>Madrid</city>
+  <address>Calle Salustiano Olózaga 9</address>
+  <lat>40.4195</lat>
+  <lon>-3.6897</lon>
+    <urls>
+      <url role="official_site">https://es.ambafrance.org</url>
+      <url role="map_page">https://www.openstreetmap.org/?mlat=40.4195&amp;mlon=-3.6897#map=18/40.4195/-3.6897</url>
+    </urls>
+    <extra>
+      <sourceName>sync_embassies</sourceName>
+      <legacy_type>embassy</legacy_type>
+      <legacyUpdatedAt>2026-03-27</legacyUpdatedAt>
+    </extra>
+  </entity>
+  <entity>
+  <id>51e5a209-06c4-4d69-a3b7-7a5d12dd1522</id>
+  <name>embajada de Indonesia en España</name>
+  <normalized_name>embajada de indonesia en espana</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle de Agastia, 65</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <contacts>
+      <contact kind="phone">+34914130294</contact>
+      <contact kind="email">mailto:madrid.kbri@kemlu.go.id</contact>
+    </contacts>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q252</represented_country_uri>
+      <represented_country_name>Indonesia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>4815a38f-f899-4241-8422-627f70d8b17b</id>
+  <name>embajada de Malasia en España</name>
+  <normalized_name>embajada de malasia en espana</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Avenida de los Madroños, 63bis</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q833</represented_country_uri>
+      <represented_country_name>Malasia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>f7fd6e2c-11cf-412e-bc33-71621b26fafc</id>
+  <name>embassy of Chile in Spain</name>
+  <normalized_name>embassy of chile in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q298</represented_country_uri>
+      <represented_country_name>Chile</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>0476f1d3-07df-4f73-bd39-750e0549887a</id>
+  <name>embassy of Costa Rica in Spain</name>
+  <normalized_name>embassy of costa rica in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q800</represented_country_uri>
+      <represented_country_name>Costa Rica</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>9a8d9efe-ef95-4432-ae70-4aa7008654e0</id>
+  <name>embassy of Croatia in Spain</name>
+  <normalized_name>embassy of croatia in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q224</represented_country_uri>
+      <represented_country_name>Croatia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>505a198a-0c19-4ea5-97f6-34e2045a5128</id>
+  <name>embassy of Cuba, Madrid</name>
+  <normalized_name>embassy of cuba, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q241</represented_country_uri>
+      <represented_country_name>Cuba</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>2ea27f6c-8f9c-47a2-826f-26185732bb4e</id>
+  <name>embassy of Cyprus in Spain</name>
+  <normalized_name>embassy of cyprus in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q229</represented_country_uri>
+      <represented_country_name>Cyprus</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>f47dd302-5279-4ddb-bca4-ad7ca29fdd26</id>
+  <name>embassy of Democratic Republic of the Congo in Spain</name>
+  <normalized_name>embassy of democratic republic of the congo in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q974</represented_country_uri>
+      <represented_country_name>Democratic Republic of the Congo</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>c0e9a5e0-006d-4d88-ae89-148f27f0936f</id>
+  <name>embassy of Denmark in Spain</name>
+  <normalized_name>embassy of denmark in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q756617</represented_country_uri>
+      <represented_country_name>Kingdom of Denmark</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>3951771f-0b6c-45da-a494-a6b534805252</id>
+  <name>embassy of Ecuador in Spain</name>
+  <normalized_name>embassy of ecuador in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q736</represented_country_uri>
+      <represented_country_name>Ecuador</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>90fd037f-03d5-4213-ae90-066ce930890a</id>
+  <name>embassy of Egypt in Spain</name>
+  <normalized_name>embassy of egypt in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q79</represented_country_uri>
+      <represented_country_name>Egypt</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>4721261c-2af2-448e-b22f-82c0695fcddc</id>
+  <name>embassy of Equatorial Guinea in Spain</name>
+  <normalized_name>embassy of equatorial guinea in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q983</represented_country_uri>
+      <represented_country_name>Equatorial Guinea</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>cfb9d37a-ef5a-48ac-bb70-c0d4a054eb7b</id>
+  <name>Embassy of Finland in Spain</name>
+  <normalized_name>embassy of finland in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q33</represented_country_uri>
+      <represented_country_name>Finland</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>0cdaa202-4ba4-43a3-9b00-36a9a06671c5</id>
+  <name>Embassy of France, Madrid</name>
+  <normalized_name>embassy of france, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Africa</province>
+  <city>Killang Hill</city>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q142</represented_country_uri>
+      <represented_country_name>France</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>a812b214-fc20-49e4-a14f-a82cc9a4446f</id>
+  <name>embassy of Gabon in Spain</name>
+  <normalized_name>embassy of gabon in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1000</represented_country_uri>
+      <represented_country_name>Gabon</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>fb7fc36d-ae3c-498b-a16e-74bd91014e5a</id>
+  <name>embassy of Georgia in Spain</name>
+  <normalized_name>embassy of georgia in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q230</represented_country_uri>
+      <represented_country_name>Georgia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>a071ba7a-8f4a-47ad-ae21-daea23168110</id>
+  <name>embassy of Ghana in Spain</name>
+  <normalized_name>embassy of ghana in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle de Hernández de Tejada, 10</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q117</represented_country_uri>
+      <represented_country_name>Ghana</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>7a516365-9c85-441f-9894-1c3cc759d42b</id>
+  <name>embassy of Greece in Spain</name>
+  <normalized_name>embassy of greece in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q41</represented_country_uri>
+      <represented_country_name>Greece</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>61ae15fa-207b-49e1-abe5-98a79cd93e9c</id>
+  <name>embassy of Guatemala in Spain</name>
+  <normalized_name>embassy of guatemala in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q774</represented_country_uri>
+      <represented_country_name>Guatemala</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>3699c00c-caf1-4ad4-9313-2a28862a706b</id>
+  <name>embassy of Guinea in Spain</name>
+  <normalized_name>embassy of guinea in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle Luis Muriel, 4</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1006</represented_country_uri>
+      <represented_country_name>Guinea</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>9a63cc1a-4ead-4d0c-a3fd-130a66ca98e5</id>
+  <name>embassy of Guinea-Bissau in Spain</name>
+  <normalized_name>embassy of guinea-bissau in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1007</represented_country_uri>
+      <represented_country_name>Guinea-Bissau</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>a0be79bd-0281-4bdb-93e5-7e03d5a238d3</id>
+  <name>embassy of Haiti in Spain</name>
+  <normalized_name>embassy of haiti in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q790</represented_country_uri>
+      <represented_country_name>Haiti</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>3ca7bc27-447b-4285-850a-88560e2723e0</id>
+  <name>embassy of Honduras in Spain</name>
+  <normalized_name>embassy of honduras in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q783</represented_country_uri>
+      <represented_country_name>Honduras</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>afdb750e-ebf2-4926-9443-1ad7a41c5d65</id>
+  <name>Embassy of India, Madrid</name>
+  <normalized_name>embassy of india, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q668</represented_country_uri>
+      <represented_country_name>India</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>e25c8ee8-a43c-43ea-b597-fc3d5b1753fa</id>
+  <name>embassy of Iran in Spain</name>
+  <normalized_name>embassy of iran in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle de Jerez, 5</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q794</represented_country_uri>
+      <represented_country_name>Iran</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>e35cab41-a5b5-44fa-ae3f-128d2874859a</id>
+  <name>embassy of Israel in Spain</name>
+  <normalized_name>embassy of israel in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q801</represented_country_uri>
+      <represented_country_name>Israel</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>f9973d62-5b37-4aeb-9130-2b060d8fbe7f</id>
+  <name>embassy of Ivory Coast in Spain</name>
+  <normalized_name>embassy of ivory coast in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1008</represented_country_uri>
+      <represented_country_name>Costa de Marfil</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>9bbb974d-f2e0-4995-a2f6-f747eff9ba38</id>
+  <name>embassy of Jordan in Spain</name>
+  <normalized_name>embassy of jordan in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q810</represented_country_uri>
+      <represented_country_name>Jordania</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>49001bc2-4afe-491b-91ef-1a55e09bb489</id>
+  <name>embassy of Kenya in Spain</name>
+  <normalized_name>embassy of kenya in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle de Moralzarzal, 44</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q114</represented_country_uri>
+      <represented_country_name>Kenia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>5f6c4649-8a61-4d70-ae8f-75a6f754416f</id>
+  <name>embassy of Kuwait in Spain</name>
+  <normalized_name>embassy of kuwait in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Avenida de Miraflores, 61</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q817</represented_country_uri>
+      <represented_country_name>Kuwait</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>86ab607b-1f2d-4419-95bc-72f6187e630c</id>
+  <name>embassy of Latvia in Spain</name>
+  <normalized_name>embassy of latvia in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle Moreto, 5</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <contacts>
+      <contact kind="phone">+34-91-369-13-62</contact>
+      <contact kind="email">mailto:embassy.spain@mfa.gov.lv</contact>
+    </contacts>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q211</represented_country_uri>
+      <represented_country_name>Latvia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>7a8c186f-78aa-443d-bc3e-312f3a3879cb</id>
+  <name>embassy of Lebanon in Spain</name>
+  <normalized_name>embassy of lebanon in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q822</represented_country_uri>
+      <represented_country_name>Lebanon</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>7ba64374-ce9b-42dc-8074-cb94e95a8cf8</id>
+  <name>embassy of Libya in Spain</name>
+  <normalized_name>embassy of libya in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Avenida del Comandante Franco, 32</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1016</represented_country_uri>
+      <represented_country_name>Libya</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>7f924aeb-e8f5-4d6a-948e-860f1d7ac863</id>
+  <name>Embassy of Lithuania, Madrid</name>
+  <normalized_name>embassy of lithuania, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle del Pisuerga, 5</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <contacts>
+      <contact kind="phone">+34917022116</contact>
+      <contact kind="email">mailto:amb.es@urm.lt</contact>
+    </contacts>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q37</represented_country_uri>
+      <represented_country_name>Lithuania</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>7f3a7222-5f4e-4268-824e-6968a1e98dd8</id>
+  <name>embassy of Mali in Spain</name>
+  <normalized_name>embassy of mali in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q912</represented_country_uri>
+      <represented_country_name>Mali</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>36979118-7860-4cc5-9b56-936a4740aebc</id>
+  <name>embassy of Malta in Spain</name>
+  <normalized_name>embassy of malta in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q233</represented_country_uri>
+      <represented_country_name>Malta</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>bce5406c-5c50-47a6-a1cc-2cb2d766991c</id>
+  <name>embassy of Mauritania in Spain</name>
+  <normalized_name>embassy of mauritania in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle Piedralaves, 4</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1025</represented_country_uri>
+      <represented_country_name>Mauritania</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>18f6b524-3537-40a9-bff8-a6102257ba04</id>
+  <name>embassy of Moldova in Spain</name>
+  <normalized_name>embassy of moldova in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q217</represented_country_uri>
+      <represented_country_name>Moldova</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>8aa4f0e3-aeb1-4969-a5c0-bc3e7378ce7d</id>
+  <name>embassy of Montenegro in Spain</name>
+  <normalized_name>embassy of montenegro in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q236</represented_country_uri>
+      <represented_country_name>Montenegro</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>635534eb-e492-488d-8e75-c5924b85df24</id>
+  <name>Embassy of Morocco in Spain</name>
+  <normalized_name>embassy of morocco in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <contacts>
+      <contact kind="email">mailto:correo@embajada-marruecos.es</contact>
+    </contacts>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1028</represented_country_uri>
+      <represented_country_name>Morocco</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>cf214a38-e535-41ff-a0c9-53e905cdf007</id>
+  <name>embassy of Mozambique in Spain</name>
+  <normalized_name>embassy of mozambique in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle Alfonso Rodríguez Santamaría, 8</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1029</represented_country_uri>
+      <represented_country_name>Mozambique</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>fc32286e-5f23-4699-91a6-6b2c14fb2575</id>
+  <name>embassy of Nepal in Spain</name>
+  <normalized_name>embassy of nepal in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle Piedralaves, 4</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q837</represented_country_uri>
+      <represented_country_name>Nepal</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>71908aa7-9ed5-48e7-b118-26510d2d3c39</id>
+  <name>embassy of Nicaragua in Spain</name>
+  <normalized_name>embassy of nicaragua in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q811</represented_country_uri>
+      <represented_country_name>Nicaragua</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>699f5ae1-9bfd-4e53-8b89-e163eeee8912</id>
+  <name>embassy of North Macedonia in Spain</name>
+  <normalized_name>embassy of north macedonia in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q221</represented_country_uri>
+      <represented_country_name>North Macedonia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>85ec37cd-9722-4a6f-a513-c94511c1e788</id>
+  <name>embassy of Oman in Spain</name>
+  <normalized_name>embassy of oman in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q842</represented_country_uri>
+      <represented_country_name>Oman</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>85e543e2-544e-4782-bddd-7dd0444cf38c</id>
+  <name>embassy of Pakistan in Spain</name>
+  <normalized_name>embassy of pakistan in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q843</represented_country_uri>
+      <represented_country_name>Pakistan</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>92b57048-d190-4c75-a750-8d41ed048c79</id>
+  <name>embassy of Paraguay in Spain</name>
+  <normalized_name>embassy of paraguay in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q733</represented_country_uri>
+      <represented_country_name>Paraguay</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>dc31b00a-eae4-437a-83e1-db6a951b05e1</id>
+  <name>embassy of Portugal in Spain</name>
+  <normalized_name>embassy of portugal in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q45</represented_country_uri>
+      <represented_country_name>Portugal</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>c097351e-6cf0-4aaa-967e-0d7f682de1d3</id>
+  <name>embassy of Qatar in Spain</name>
+  <normalized_name>embassy of qatar in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q846</represented_country_uri>
+      <represented_country_name>Qatar</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>6f93bdf1-4552-4cb5-8aaa-8ce0d0f775fc</id>
+  <name>embassy of San Marino in Spain</name>
+  <normalized_name>embassy of san marino in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle del Padre Jesús Ordóñez, 18</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q238</represented_country_uri>
+      <represented_country_name>San Marino</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>be4b2e2b-097a-45ce-9bb7-fcab396398f2</id>
+  <name>embassy of Senegal in Spain</name>
+  <normalized_name>embassy of senegal in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Calle de Moralzarzal, 18</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1041</represented_country_uri>
+      <represented_country_name>Senegal</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>21878b3a-a7a7-4f0e-b98a-1c256344eb14</id>
+  <name>embassy of Serbia in Spain</name>
+  <normalized_name>embassy of serbia in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q403</represented_country_uri>
+      <represented_country_name>Serbia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>33551ef2-d575-4a47-8203-3529a4b7f474</id>
+  <name>embassy of Slovakia in Spain</name>
+  <normalized_name>embassy of slovakia in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q214</represented_country_uri>
+      <represented_country_name>Slovakia</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>810c0876-87a0-4864-9a71-5233b8175504</id>
+  <name>embassy of South Africa in Spain</name>
+  <normalized_name>embassy of south africa in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q258</represented_country_uri>
+      <represented_country_name>South Africa</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>17fa8f40-b519-42c6-844e-a45a22ad77b8</id>
+  <name>embassy of Sudan in Spain</name>
+  <normalized_name>embassy of sudan in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <address>Avenida de Miraflores, 63</address>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q1049</represented_country_uri>
+      <represented_country_name>Sudan</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>29cd2a58-6645-4fd3-a007-8cd4e01b8079</id>
+  <name>embassy of Syria in Spain</name>
+  <normalized_name>embassy of syria in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q858</represented_country_uri>
+      <represented_country_name>Syria</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>47416470-150e-4f94-8614-e7d877fc8085</id>
+  <name>embassy of Thailand in Spain</name>
+  <normalized_name>embassy of thailand in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q869</represented_country_uri>
+      <represented_country_name>Thailand</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>b6013a92-0800-408d-901d-84e58eb1bb9a</id>
+  <name>embassy of the Dominican Republic in Spain</name>
+  <normalized_name>embassy of the dominican republic in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q786</represented_country_uri>
+      <represented_country_name>Dominican Republic</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>7bec5243-1d9b-4034-b2eb-1788f0546a4f</id>
+  <name>Embassy of the People&apos;s Republic of China, Madrid</name>
+  <normalized_name>embassy of the people&apos;s republic of china, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q148</represented_country_uri>
+      <represented_country_name>People&apos;s Republic of China</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>a11bad04-8750-43fc-96d9-8d9570100b5f</id>
+  <name>Embassy of the Sovereign Military Order of Malta, Madrid</name>
+  <normalized_name>embassy of the sovereign military order of malta, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q190353</represented_country_uri>
+      <represented_country_name>Orden de Malta</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>d514083d-f1ba-47a6-8da8-c5f32300cace</id>
+  <name>Embassy of the United Kingdom, Madrid</name>
+  <normalized_name>embassy of the united kingdom, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Africa</province>
+  <city>Killang Hill</city>
+  <lat>40.4767</lat>
+  <lon>-3.6879</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q145</represented_country_uri>
+      <represented_country_name>United Kingdom</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>2bfb3d38-9001-4425-8c83-957df5ed13b3</id>
+  <name>Embassy of Turkey in Madrid</name>
+  <normalized_name>embassy of turkey in madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q43</represented_country_uri>
+      <represented_country_name>Turkey</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>0e7b8aeb-15a3-410f-b411-cddacd566287</id>
+  <name>Embassy of Ukraine, Madrid</name>
+  <normalized_name>embassy of ukraine, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Africa</province>
+  <city>Killang Hill</city>
+  <address>c/Ronda de la Abubilla, 52, 28043 Madrid</address>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <contacts>
+      <contact kind="phone">+34-917-48-93-60</contact>
+      <contact kind="email">mailto:emb_es@mfa.gov.ua</contact>
+    </contacts>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q212</represented_country_uri>
+      <represented_country_name>Ukraine</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>01caa5ae-2ea6-4dde-9b34-57a9badab6aa</id>
+  <name>embassy of Uruguay in Spain</name>
+  <normalized_name>embassy of uruguay in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q77</represented_country_uri>
+      <represented_country_name>Uruguay</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>3223efcc-8699-46f7-9873-685cd0caafbd</id>
+  <name>embassy of Venezuela in Spain</name>
+  <normalized_name>embassy of venezuela in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q717</represented_country_uri>
+      <represented_country_name>Venezuela</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>6f3b12f3-3dae-4186-bc8a-959a0387331c</id>
+  <name>embassy of Yemen in Spain</name>
+  <normalized_name>embassy of yemen in spain</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Comunidad de Madrid</province>
+  <city>Madrid</city>
+  <lat>40.416944444</lat>
+  <lon>-3.703333333</lon>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q805</represented_country_uri>
+      <represented_country_name>Yemen</represented_country_name>
+    </extra>
+  </entity>
+  <entity>
+  <id>13e7cbb5-ace1-41bb-8c7f-1b9a87c3f52f</id>
+  <name>Russian Embassy, Madrid</name>
+  <normalized_name>russian embassy, madrid</normalized_name>
+  <entity_kind_key>embassy</entity_kind_key>
+  <country>España</country>
+  <province>Japan</province>
+  <city>animal welfare and rights in Japan</city>
+    <urls>
+      <url role="source_page">https://query.wikidata.org/sparql</url>
+    </urls>
+    <extra>
+      <represented_country_uri>http://www.wikidata.org/entity/Q159</represented_country_uri>
+      <represented_country_name>Russia</represented_country_name>
+    </extra>
+  </entity>
+</dataset>

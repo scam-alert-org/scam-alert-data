@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-04-11T00:18:23.985Z",
+  "run_date": "2026-04-11",
+  "datasets": {
+    "comisarias": {
+      "kind": "police_station",
+      "canonical_hash": "266d0e80c7977ceccff9a01864bdf75bea79c5bd150fa4ebb5ada1382312cf0f",
+      "source_rows": 576,
+      "changed": true,
+      "formats": {
+        "json": {
+          "rows": 576,
+          "size_bytes": 410919,
+          "sha256": "9506bc378cbcb67e0d831d971f82e16f273af429c13de151b2fe009c401aab7f",
+          "valid": true,
+          "errors": [],
+          "warnings": [
+            "[json] Campo obligatorio \"province\" ausente en 5/576 registros (0.9%)"
+          ]
+        },
+        "csv": {
+          "rows": 576,
+          "size_bytes": 186581,
+          "sha256": "2414d429fbb267306437e7b98ee68677b2306cbdb9aedc3cc0af1fd58a189f73",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        },
+        "xml": {
+          "rows": 576,
+          "size_bytes": 394648,
+          "sha256": "2803c92735829e0a7cb2a4ecd0762991cec2e01ada99bfa2a61868174a384c54",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        },
+        "geojson": {
+          "rows": 550,
+          "size_bytes": 410219,
+          "sha256": "535dd18d84fd734d12f00d9144ef50ca96b40bf1021ce50ceae86042409d83b0",
+          "valid": true,
+          "errors": [],
+          "warnings": [
+            "[geojson] 26 registros sin coordenadas excluidos intencionalmente (4.5%). Datos completos disponibles en JSON/CSV/XML."
+          ],
+          "excluded_no_geometry": 26,
+          "excluded_pct": "4.51%"
+        },
+        "kml": {
+          "rows": 576,
+          "size_bytes": 371539,
+          "sha256": "d115092280cea5ac7aebdc71b02f3b2fcaae41dbcfba77ab76f08f2e4dda7c7b",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        },
+        "gml": {
+          "rows": 576,
+          "size_bytes": 619353,
+          "sha256": "d6f9c84b75aa41e445292e6790cb4c92515da0c107361e48ae8a8787f880d53b",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        }
+      },
+      "validation": {
+        "passed": true,
+        "error_count": 0,
+        "warning_count": 2,
+        "errors": [],
+        "warnings": [
+          "[json] Campo obligatorio \"province\" ausente en 5/576 registros (0.9%)",
+          "[geojson] 26 registros sin coordenadas excluidos intencionalmente (4.5%). Datos completos disponibles en JSON/CSV/XML."
+        ]
+      }
+    }
+  },
+  "summary": {
+    "total_datasets": 1,
+    "datasets_changed": 1,
+    "datasets_skipped": 0,
+    "total_source_rows": 576,
+    "total_exported_rows": 576,
+    "total_geojson_excluded": 26,
+    "geojson_excluded_pct": "4.51%",
+    "all_valid": true
+  }
+}

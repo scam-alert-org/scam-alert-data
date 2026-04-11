@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "1afd941a-8568-4ec9-8974-25295bdb0cf0",
+    "name": "Consulado EEUU en Barcelona",
+    "normalized_name": "Consulado EEUU en Barcelona",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": null,
+    "city": "Barcelona",
+    "address": "Passeig de la Reina Elisenda 23",
+    "postal_code": null,
+    "lat": 41.3975,
+    "lon": 2.119,
+    "urls": [
+      {
+        "url": "https://www.openstreetmap.org/?mlat=41.3975&mlon=2.119#map=18/41.3975/2.119",
+        "role": "map_page"
+      },
+      {
+        "url": "https://es.usembassy.gov",
+        "role": "official_site"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "sourceName": "sync_embassies",
+      "legacy_type": "consulate",
+      "legacyUpdatedAt": "2026-03-27"
+    }
+  },
+  {
+    "id": "cce0c5cb-6389-4b30-bc2b-26139c2a2b55",
+    "name": "Embajada de España en Francia",
+    "normalized_name": "Embajada de España en Francia",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": null,
+    "city": "Paris",
+    "address": "22 Avenue Marceau",
+    "postal_code": null,
+    "lat": 48.8685,
+    "lon": 2.2987,
+    "urls": [
+      {
+        "url": "https://www.exteriores.gob.es",
+        "role": "official_site"
+      },
+      {
+        "url": "https://www.openstreetmap.org/?mlat=48.8685&mlon=2.2987#map=18/48.8685/2.2987",
+        "role": "map_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "sourceName": "sync_embassies",
+      "legacy_type": "embassy",
+      "legacyUpdatedAt": "2026-03-27"
+    }
+  },
+  {
+    "id": "5f41c71a-b349-4f48-a54e-886b83497081",
+    "name": "Embajada de Francia en España",
+    "normalized_name": "Embajada de Francia en España",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": null,
+    "city": "Madrid",
+    "address": "Calle Salustiano Olózaga 9",
+    "postal_code": null,
+    "lat": 40.4195,
+    "lon": -3.6897,
+    "urls": [
+      {
+        "url": "https://es.ambafrance.org",
+        "role": "official_site"
+      },
+      {
+        "url": "https://www.openstreetmap.org/?mlat=40.4195&mlon=-3.6897#map=18/40.4195/-3.6897",
+        "role": "map_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "sourceName": "sync_embassies",
+      "legacy_type": "embassy",
+      "legacyUpdatedAt": "2026-03-27"
+    }
+  },
+  {
+    "id": "51e5a209-06c4-4d69-a3b7-7a5d12dd1522",
+    "name": "embajada de Indonesia en España",
+    "normalized_name": "embajada de indonesia en espana",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle de Agastia, 65",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "value": "+34914130294"
+      },
+      {
+        "kind": "email",
+        "value": "mailto:madrid.kbri@kemlu.go.id"
+      }
+    ],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q252",
+      "represented_country_name": "Indonesia"
+    }
+  },
+  {
+    "id": "4815a38f-f899-4241-8422-627f70d8b17b",
+    "name": "embajada de Malasia en España",
+    "normalized_name": "embajada de malasia en espana",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Avenida de los Madroños, 63bis",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q833",
+      "represented_country_name": "Malasia"
+    }
+  },
+  {
+    "id": "f7fd6e2c-11cf-412e-bc33-71621b26fafc",
+    "name": "embassy of Chile in Spain",
+    "normalized_name": "embassy of chile in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q298",
+      "represented_country_name": "Chile"
+    }
+  },
+  {
+    "id": "0476f1d3-07df-4f73-bd39-750e0549887a",
+    "name": "embassy of Costa Rica in Spain",
+    "normalized_name": "embassy of costa rica in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q800",
+      "represented_country_name": "Costa Rica"
+    }
+  },
+  {
+    "id": "9a8d9efe-ef95-4432-ae70-4aa7008654e0",
+    "name": "embassy of Croatia in Spain",
+    "normalized_name": "embassy of croatia in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q224",
+      "represented_country_name": "Croatia"
+    }
+  },
+  {
+    "id": "505a198a-0c19-4ea5-97f6-34e2045a5128",
+    "name": "embassy of Cuba, Madrid",
+    "normalized_name": "embassy of cuba, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q241",
+      "represented_country_name": "Cuba"
+    }
+  },
+  {
+    "id": "2ea27f6c-8f9c-47a2-826f-26185732bb4e",
+    "name": "embassy of Cyprus in Spain",
+    "normalized_name": "embassy of cyprus in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q229",
+      "represented_country_name": "Cyprus"
+    }
+  },
+  {
+    "id": "f47dd302-5279-4ddb-bca4-ad7ca29fdd26",
+    "name": "embassy of Democratic Republic of the Congo in Spain",
+    "normalized_name": "embassy of democratic republic of the congo in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q974",
+      "represented_country_name": "Democratic Republic of the Congo"
+    }
+  },
+  {
+    "id": "c0e9a5e0-006d-4d88-ae89-148f27f0936f",
+    "name": "embassy of Denmark in Spain",
+    "normalized_name": "embassy of denmark in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q756617",
+      "represented_country_name": "Kingdom of Denmark"
+    }
+  },
+  {
+    "id": "3951771f-0b6c-45da-a494-a6b534805252",
+    "name": "embassy of Ecuador in Spain",
+    "normalized_name": "embassy of ecuador in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q736",
+      "represented_country_name": "Ecuador"
+    }
+  },
+  {
+    "id": "90fd037f-03d5-4213-ae90-066ce930890a",
+    "name": "embassy of Egypt in Spain",
+    "normalized_name": "embassy of egypt in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q79",
+      "represented_country_name": "Egypt"
+    }
+  },
+  {
+    "id": "4721261c-2af2-448e-b22f-82c0695fcddc",
+    "name": "embassy of Equatorial Guinea in Spain",
+    "normalized_name": "embassy of equatorial guinea in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q983",
+      "represented_country_name": "Equatorial Guinea"
+    }
+  },
+  {
+    "id": "cfb9d37a-ef5a-48ac-bb70-c0d4a054eb7b",
+    "name": "Embassy of Finland in Spain",
+    "normalized_name": "embassy of finland in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q33",
+      "represented_country_name": "Finland"
+    }
+  },
+  {
+    "id": "0cdaa202-4ba4-43a3-9b00-36a9a06671c5",
+    "name": "Embassy of France, Madrid",
+    "normalized_name": "embassy of france, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Africa",
+    "city": "Killang Hill",
+    "address": "",
+    "postal_code": null,
+    "lat": null,
+    "lon": null,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q142",
+      "represented_country_name": "France"
+    }
+  },
+  {
+    "id": "a812b214-fc20-49e4-a14f-a82cc9a4446f",
+    "name": "embassy of Gabon in Spain",
+    "normalized_name": "embassy of gabon in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1000",
+      "represented_country_name": "Gabon"
+    }
+  },
+  {
+    "id": "fb7fc36d-ae3c-498b-a16e-74bd91014e5a",
+    "name": "embassy of Georgia in Spain",
+    "normalized_name": "embassy of georgia in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q230",
+      "represented_country_name": "Georgia"
+    }
+  },
+  {
+    "id": "a071ba7a-8f4a-47ad-ae21-daea23168110",
+    "name": "embassy of Ghana in Spain",
+    "normalized_name": "embassy of ghana in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle de Hernández de Tejada, 10",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q117",
+      "represented_country_name": "Ghana"
+    }
+  },
+  {
+    "id": "7a516365-9c85-441f-9894-1c3cc759d42b",
+    "name": "embassy of Greece in Spain",
+    "normalized_name": "embassy of greece in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q41",
+      "represented_country_name": "Greece"
+    }
+  },
+  {
+    "id": "61ae15fa-207b-49e1-abe5-98a79cd93e9c",
+    "name": "embassy of Guatemala in Spain",
+    "normalized_name": "embassy of guatemala in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q774",
+      "represented_country_name": "Guatemala"
+    }
+  },
+  {
+    "id": "3699c00c-caf1-4ad4-9313-2a28862a706b",
+    "name": "embassy of Guinea in Spain",
+    "normalized_name": "embassy of guinea in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle Luis Muriel, 4",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1006",
+      "represented_country_name": "Guinea"
+    }
+  },
+  {
+    "id": "9a63cc1a-4ead-4d0c-a3fd-130a66ca98e5",
+    "name": "embassy of Guinea-Bissau in Spain",
+    "normalized_name": "embassy of guinea-bissau in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1007",
+      "represented_country_name": "Guinea-Bissau"
+    }
+  },
+  {
+    "id": "a0be79bd-0281-4bdb-93e5-7e03d5a238d3",
+    "name": "embassy of Haiti in Spain",
+    "normalized_name": "embassy of haiti in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q790",
+      "represented_country_name": "Haiti"
+    }
+  },
+  {
+    "id": "3ca7bc27-447b-4285-850a-88560e2723e0",
+    "name": "embassy of Honduras in Spain",
+    "normalized_name": "embassy of honduras in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q783",
+      "represented_country_name": "Honduras"
+    }
+  },
+  {
+    "id": "afdb750e-ebf2-4926-9443-1ad7a41c5d65",
+    "name": "Embassy of India, Madrid",
+    "normalized_name": "embassy of india, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q668",
+      "represented_country_name": "India"
+    }
+  },
+  {
+    "id": "e25c8ee8-a43c-43ea-b597-fc3d5b1753fa",
+    "name": "embassy of Iran in Spain",
+    "normalized_name": "embassy of iran in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle de Jerez, 5",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q794",
+      "represented_country_name": "Iran"
+    }
+  },
+  {
+    "id": "e35cab41-a5b5-44fa-ae3f-128d2874859a",
+    "name": "embassy of Israel in Spain",
+    "normalized_name": "embassy of israel in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q801",
+      "represented_country_name": "Israel"
+    }
+  },
+  {
+    "id": "f9973d62-5b37-4aeb-9130-2b060d8fbe7f",
+    "name": "embassy of Ivory Coast in Spain",
+    "normalized_name": "embassy of ivory coast in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1008",
+      "represented_country_name": "Costa de Marfil"
+    }
+  },
+  {
+    "id": "9bbb974d-f2e0-4995-a2f6-f747eff9ba38",
+    "name": "embassy of Jordan in Spain",
+    "normalized_name": "embassy of jordan in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q810",
+      "represented_country_name": "Jordania"
+    }
+  },
+  {
+    "id": "49001bc2-4afe-491b-91ef-1a55e09bb489",
+    "name": "embassy of Kenya in Spain",
+    "normalized_name": "embassy of kenya in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle de Moralzarzal, 44",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q114",
+      "represented_country_name": "Kenia"
+    }
+  },
+  {
+    "id": "5f6c4649-8a61-4d70-ae8f-75a6f754416f",
+    "name": "embassy of Kuwait in Spain",
+    "normalized_name": "embassy of kuwait in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Avenida de Miraflores, 61",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q817",
+      "represented_country_name": "Kuwait"
+    }
+  },
+  {
+    "id": "86ab607b-1f2d-4419-95bc-72f6187e630c",
+    "name": "embassy of Latvia in Spain",
+    "normalized_name": "embassy of latvia in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle Moreto, 5",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "value": "+34-91-369-13-62"
+      },
+      {
+        "kind": "email",
+        "value": "mailto:embassy.spain@mfa.gov.lv"
+      }
+    ],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q211",
+      "represented_country_name": "Latvia"
+    }
+  },
+  {
+    "id": "7a8c186f-78aa-443d-bc3e-312f3a3879cb",
+    "name": "embassy of Lebanon in Spain",
+    "normalized_name": "embassy of lebanon in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q822",
+      "represented_country_name": "Lebanon"
+    }
+  },
+  {
+    "id": "7ba64374-ce9b-42dc-8074-cb94e95a8cf8",
+    "name": "embassy of Libya in Spain",
+    "normalized_name": "embassy of libya in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Avenida del Comandante Franco, 32",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1016",
+      "represented_country_name": "Libya"
+    }
+  },
+  {
+    "id": "7f924aeb-e8f5-4d6a-948e-860f1d7ac863",
+    "name": "Embassy of Lithuania, Madrid",
+    "normalized_name": "embassy of lithuania, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle del Pisuerga, 5",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "value": "+34917022116"
+      },
+      {
+        "kind": "email",
+        "value": "mailto:amb.es@urm.lt"
+      }
+    ],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q37",
+      "represented_country_name": "Lithuania"
+    }
+  },
+  {
+    "id": "7f3a7222-5f4e-4268-824e-6968a1e98dd8",
+    "name": "embassy of Mali in Spain",
+    "normalized_name": "embassy of mali in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q912",
+      "represented_country_name": "Mali"
+    }
+  },
+  {
+    "id": "36979118-7860-4cc5-9b56-936a4740aebc",
+    "name": "embassy of Malta in Spain",
+    "normalized_name": "embassy of malta in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q233",
+      "represented_country_name": "Malta"
+    }
+  },
+  {
+    "id": "bce5406c-5c50-47a6-a1cc-2cb2d766991c",
+    "name": "embassy of Mauritania in Spain",
+    "normalized_name": "embassy of mauritania in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle Piedralaves, 4",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1025",
+      "represented_country_name": "Mauritania"
+    }
+  },
+  {
+    "id": "18f6b524-3537-40a9-bff8-a6102257ba04",
+    "name": "embassy of Moldova in Spain",
+    "normalized_name": "embassy of moldova in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q217",
+      "represented_country_name": "Moldova"
+    }
+  },
+  {
+    "id": "8aa4f0e3-aeb1-4969-a5c0-bc3e7378ce7d",
+    "name": "embassy of Montenegro in Spain",
+    "normalized_name": "embassy of montenegro in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q236",
+      "represented_country_name": "Montenegro"
+    }
+  },
+  {
+    "id": "635534eb-e492-488d-8e75-c5924b85df24",
+    "name": "Embassy of Morocco in Spain",
+    "normalized_name": "embassy of morocco in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [
+      {
+        "kind": "email",
+        "value": "mailto:correo@embajada-marruecos.es"
+      }
+    ],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1028",
+      "represented_country_name": "Morocco"
+    }
+  },
+  {
+    "id": "cf214a38-e535-41ff-a0c9-53e905cdf007",
+    "name": "embassy of Mozambique in Spain",
+    "normalized_name": "embassy of mozambique in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle Alfonso Rodríguez Santamaría, 8",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1029",
+      "represented_country_name": "Mozambique"
+    }
+  },
+  {
+    "id": "fc32286e-5f23-4699-91a6-6b2c14fb2575",
+    "name": "embassy of Nepal in Spain",
+    "normalized_name": "embassy of nepal in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle Piedralaves, 4",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q837",
+      "represented_country_name": "Nepal"
+    }
+  },
+  {
+    "id": "71908aa7-9ed5-48e7-b118-26510d2d3c39",
+    "name": "embassy of Nicaragua in Spain",
+    "normalized_name": "embassy of nicaragua in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q811",
+      "represented_country_name": "Nicaragua"
+    }
+  },
+  {
+    "id": "699f5ae1-9bfd-4e53-8b89-e163eeee8912",
+    "name": "embassy of North Macedonia in Spain",
+    "normalized_name": "embassy of north macedonia in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q221",
+      "represented_country_name": "North Macedonia"
+    }
+  },
+  {
+    "id": "85ec37cd-9722-4a6f-a513-c94511c1e788",
+    "name": "embassy of Oman in Spain",
+    "normalized_name": "embassy of oman in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q842",
+      "represented_country_name": "Oman"
+    }
+  },
+  {
+    "id": "85e543e2-544e-4782-bddd-7dd0444cf38c",
+    "name": "embassy of Pakistan in Spain",
+    "normalized_name": "embassy of pakistan in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q843",
+      "represented_country_name": "Pakistan"
+    }
+  },
+  {
+    "id": "92b57048-d190-4c75-a750-8d41ed048c79",
+    "name": "embassy of Paraguay in Spain",
+    "normalized_name": "embassy of paraguay in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q733",
+      "represented_country_name": "Paraguay"
+    }
+  },
+  {
+    "id": "dc31b00a-eae4-437a-83e1-db6a951b05e1",
+    "name": "embassy of Portugal in Spain",
+    "normalized_name": "embassy of portugal in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q45",
+      "represented_country_name": "Portugal"
+    }
+  },
+  {
+    "id": "c097351e-6cf0-4aaa-967e-0d7f682de1d3",
+    "name": "embassy of Qatar in Spain",
+    "normalized_name": "embassy of qatar in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q846",
+      "represented_country_name": "Qatar"
+    }
+  },
+  {
+    "id": "6f93bdf1-4552-4cb5-8aaa-8ce0d0f775fc",
+    "name": "embassy of San Marino in Spain",
+    "normalized_name": "embassy of san marino in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle del Padre Jesús Ordóñez, 18",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q238",
+      "represented_country_name": "San Marino"
+    }
+  },
+  {
+    "id": "be4b2e2b-097a-45ce-9bb7-fcab396398f2",
+    "name": "embassy of Senegal in Spain",
+    "normalized_name": "embassy of senegal in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Calle de Moralzarzal, 18",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1041",
+      "represented_country_name": "Senegal"
+    }
+  },
+  {
+    "id": "21878b3a-a7a7-4f0e-b98a-1c256344eb14",
+    "name": "embassy of Serbia in Spain",
+    "normalized_name": "embassy of serbia in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q403",
+      "represented_country_name": "Serbia"
+    }
+  },
+  {
+    "id": "33551ef2-d575-4a47-8203-3529a4b7f474",
+    "name": "embassy of Slovakia in Spain",
+    "normalized_name": "embassy of slovakia in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q214",
+      "represented_country_name": "Slovakia"
+    }
+  },
+  {
+    "id": "810c0876-87a0-4864-9a71-5233b8175504",
+    "name": "embassy of South Africa in Spain",
+    "normalized_name": "embassy of south africa in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q258",
+      "represented_country_name": "South Africa"
+    }
+  },
+  {
+    "id": "17fa8f40-b519-42c6-844e-a45a22ad77b8",
+    "name": "embassy of Sudan in Spain",
+    "normalized_name": "embassy of sudan in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "Avenida de Miraflores, 63",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q1049",
+      "represented_country_name": "Sudan"
+    }
+  },
+  {
+    "id": "29cd2a58-6645-4fd3-a007-8cd4e01b8079",
+    "name": "embassy of Syria in Spain",
+    "normalized_name": "embassy of syria in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q858",
+      "represented_country_name": "Syria"
+    }
+  },
+  {
+    "id": "47416470-150e-4f94-8614-e7d877fc8085",
+    "name": "embassy of Thailand in Spain",
+    "normalized_name": "embassy of thailand in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q869",
+      "represented_country_name": "Thailand"
+    }
+  },
+  {
+    "id": "b6013a92-0800-408d-901d-84e58eb1bb9a",
+    "name": "embassy of the Dominican Republic in Spain",
+    "normalized_name": "embassy of the dominican republic in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q786",
+      "represented_country_name": "Dominican Republic"
+    }
+  },
+  {
+    "id": "7bec5243-1d9b-4034-b2eb-1788f0546a4f",
+    "name": "Embassy of the People's Republic of China, Madrid",
+    "normalized_name": "embassy of the people's republic of china, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q148",
+      "represented_country_name": "People's Republic of China"
+    }
+  },
+  {
+    "id": "a11bad04-8750-43fc-96d9-8d9570100b5f",
+    "name": "Embassy of the Sovereign Military Order of Malta, Madrid",
+    "normalized_name": "embassy of the sovereign military order of malta, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q190353",
+      "represented_country_name": "Orden de Malta"
+    }
+  },
+  {
+    "id": "d514083d-f1ba-47a6-8da8-c5f32300cace",
+    "name": "Embassy of the United Kingdom, Madrid",
+    "normalized_name": "embassy of the united kingdom, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Africa",
+    "city": "Killang Hill",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.4767,
+    "lon": -3.6879,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q145",
+      "represented_country_name": "United Kingdom"
+    }
+  },
+  {
+    "id": "2bfb3d38-9001-4425-8c83-957df5ed13b3",
+    "name": "Embassy of Turkey in Madrid",
+    "normalized_name": "embassy of turkey in madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q43",
+      "represented_country_name": "Turkey"
+    }
+  },
+  {
+    "id": "0e7b8aeb-15a3-410f-b411-cddacd566287",
+    "name": "Embassy of Ukraine, Madrid",
+    "normalized_name": "embassy of ukraine, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Africa",
+    "city": "Killang Hill",
+    "address": "c/Ronda de la Abubilla, 52, 28043 Madrid",
+    "postal_code": null,
+    "lat": null,
+    "lon": null,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [
+      {
+        "kind": "phone",
+        "value": "+34-917-48-93-60"
+      },
+      {
+        "kind": "email",
+        "value": "mailto:emb_es@mfa.gov.ua"
+      }
+    ],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q212",
+      "represented_country_name": "Ukraine"
+    }
+  },
+  {
+    "id": "01caa5ae-2ea6-4dde-9b34-57a9badab6aa",
+    "name": "embassy of Uruguay in Spain",
+    "normalized_name": "embassy of uruguay in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q77",
+      "represented_country_name": "Uruguay"
+    }
+  },
+  {
+    "id": "3223efcc-8699-46f7-9873-685cd0caafbd",
+    "name": "embassy of Venezuela in Spain",
+    "normalized_name": "embassy of venezuela in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q717",
+      "represented_country_name": "Venezuela"
+    }
+  },
+  {
+    "id": "6f3b12f3-3dae-4186-bc8a-959a0387331c",
+    "name": "embassy of Yemen in Spain",
+    "normalized_name": "embassy of yemen in spain",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Comunidad de Madrid",
+    "city": "Madrid",
+    "address": "",
+    "postal_code": null,
+    "lat": 40.416944444,
+    "lon": -3.703333333,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q805",
+      "represented_country_name": "Yemen"
+    }
+  },
+  {
+    "id": "13e7cbb5-ace1-41bb-8c7f-1b9a87c3f52f",
+    "name": "Russian Embassy, Madrid",
+    "normalized_name": "russian embassy, madrid",
+    "entity_kind_key": "embassy",
+    "country": "España",
+    "province": "Japan",
+    "city": "animal welfare and rights in Japan",
+    "address": "",
+    "postal_code": null,
+    "lat": null,
+    "lon": null,
+    "urls": [
+      {
+        "url": "https://query.wikidata.org/sparql",
+        "role": "source_page"
+      }
+    ],
+    "contacts": [],
+    "extra": {
+      "represented_country_uri": "http://www.wikidata.org/entity/Q159",
+      "represented_country_name": "Russia"
+    }
+  }
+]

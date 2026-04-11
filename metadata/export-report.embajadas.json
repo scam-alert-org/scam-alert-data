@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-04-11T00:18:22.008Z",
+  "run_date": "2026-04-11",
+  "datasets": {
+    "embajadas": {
+      "kind": "embassy",
+      "canonical_hash": "ceba2c5729e9393fb0fe7beace104f88653fc9a3a2ad780721da3a80445d4b0f",
+      "source_rows": 70,
+      "changed": true,
+      "formats": {
+        "json": {
+          "rows": 70,
+          "size_bytes": 47164,
+          "sha256": "b172d05357916a6eab2c8fe3a3cb18551e22c85b71b51d539c0624721d1dfabc",
+          "valid": true,
+          "errors": [],
+          "warnings": [
+            "[json] 50/70 registros sin \"address\" (71.4%)"
+          ]
+        },
+        "csv": {
+          "rows": 70,
+          "size_bytes": 23170,
+          "sha256": "c13545f5f1323dd2d2e6115cf034b7effde5e97a2912eed114df7c1e7bedc48d",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        },
+        "xml": {
+          "rows": 70,
+          "size_bytes": 47402,
+          "sha256": "22e5bdd567e7c4c5ce133033f10dfb937806c38e86773a1b6959fe16d29e2554",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        },
+        "geojson": {
+          "rows": 67,
+          "size_bytes": 50325,
+          "sha256": "a3f41ede5dfc2c19fca753119f188b657d22d734fb2c767fee2a544d97073835",
+          "valid": true,
+          "errors": [],
+          "warnings": [
+            "[geojson] 3 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML."
+          ],
+          "excluded_no_geometry": 3,
+          "excluded_pct": "4.29%"
+        },
+        "kml": {
+          "rows": 70,
+          "size_bytes": 35673,
+          "sha256": "37f9684c722038da973465c0dbaea48c6d3c321a545d9d8e34d9ee3fc027d217",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        },
+        "gml": {
+          "rows": 70,
+          "size_bytes": 64768,
+          "sha256": "6b8d276f57dbd359bc9abd58ae98c6e9d664a229a3e3e4982fb37b1ccbcbbd42",
+          "valid": true,
+          "errors": [],
+          "warnings": []
+        }
+      },
+      "validation": {
+        "passed": true,
+        "error_count": 0,
+        "warning_count": 2,
+        "errors": [],
+        "warnings": [
+          "[json] 50/70 registros sin \"address\" (71.4%)",
+          "[geojson] 3 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML."
+        ]
+      }
+    }
+  },
+  "summary": {
+    "total_datasets": 1,
+    "datasets_changed": 1,
+    "datasets_skipped": 0,
+    "total_source_rows": 70,
+    "total_exported_rows": 70,
+    "total_geojson_excluded": 3,
+    "geojson_excluded_pct": "4.29%",
+    "all_valid": true
+  }
+}
