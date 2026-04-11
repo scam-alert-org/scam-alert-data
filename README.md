@@ -1,9 +1,9 @@
-# spam-alert-data
+# scam-alert-data
 
 ## 📌 Descripción
 
 Este repositorio contiene el versionado de los datos utilizados por el
-sistema **spam-alert**.
+sistema **scam-alert**.
 
 Aquí se publican datasets obtenidos mediante scraping de fuentes
 públicas, incluyendo:
