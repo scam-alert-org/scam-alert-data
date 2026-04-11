@@ -1829,12 +1829,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "948581864"
-      },
-      {
         "kind": "email",
         "value": "pfelizondo@cfnavarra.es"
+      },
+      {
+        "kind": "phone",
+        "value": "948581864"
       }
     ],
     "extra": null
@@ -1859,12 +1859,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "948555576"
-      },
-      {
         "kind": "email",
         "value": "pfestella@cfnavarra.es"
+      },
+      {
+        "kind": "phone",
+        "value": "948555576"
       }
     ],
     "extra": null
@@ -4786,12 +4786,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "948871614"
-      },
-      {
         "kind": "email",
         "value": "pfsanguesa@cfnavarra.es"
+      },
+      {
+        "kind": "phone",
+        "value": "948871614"
       }
     ],
     "extra": null
@@ -5227,12 +5227,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "948704265"
-      },
-      {
         "kind": "email",
         "value": "pftafalla@cfnavarra.es"
+      },
+      {
+        "kind": "phone",
+        "value": "948704265"
       }
     ],
     "extra": null
@@ -5595,12 +5595,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "848434500"
-      },
-      {
         "kind": "email",
         "value": "pftudela@cfnavarra.es"
+      },
+      {
+        "kind": "phone",
+        "value": "848434500"
       }
     ],
     "extra": null
@@ -7970,16 +7970,16 @@
     "lon": -3.7038,
     "urls": [
       {
+        "url": "https://www.openstreetmap.org/?mlat=40.4168&mlon=-3.7038#map=18/40.4168/-3.7038",
+        "role": "map_page"
+      },
+      {
         "url": "https://policia.es",
         "role": "official_site"
       },
       {
         "url": "https://denuncias.policia.es/OVD/",
         "role": "online_report"
-      },
-      {
-        "url": "https://www.openstreetmap.org/?mlat=40.4168&mlon=-3.7038#map=18/40.4168/-3.7038",
-        "role": "map_page"
       }
     ],
     "contacts": [],
@@ -14235,12 +14235,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "935108157"
-      },
-      {
         "kind": "email",
         "value": "itpg31176@gencat.cat"
+      },
+      {
+        "kind": "phone",
+        "value": "935108157"
       }
     ],
     "extra": null

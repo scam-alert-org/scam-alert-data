@@ -6596,7 +6596,7 @@
       <app:country>España</app:country>
       <app:city>Madrid</app:city>
       <app:address>Calle Mayor 1</app:address>
-      <app:urls>https://policia.es;https://denuncias.policia.es/OVD/;https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038</app:urls>
+      <app:urls>https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038;https://policia.es;https://denuncias.policia.es/OVD/</app:urls>
     </app:entity>
   </gml:featureMember>
   <gml:featureMember>

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-11T00:18:23.985Z",
+  "generated_at": "2026-04-11T12:01:16.473Z",
   "run_date": "2026-04-11",
   "datasets": {
     "comisarias": {
       "kind": "police_station",
-      "canonical_hash": "266d0e80c7977ceccff9a01864bdf75bea79c5bd150fa4ebb5ada1382312cf0f",
+      "canonical_hash": "43265175ed1f719ed7e6d5de659be86f6cbc6a1d833f8119bae9d9146fae6d17",
       "source_rows": 576,
       "changed": true,
       "formats": {
         "json": {
           "rows": 576,
           "size_bytes": 410919,
-          "sha256": "9506bc378cbcb67e0d831d971f82e16f273af429c13de151b2fe009c401aab7f",
+          "sha256": "cf54bfb644e03a778bbf851acfebe3057a488c0fb63eae21c9000a85062b036f",
           "valid": true,
           "errors": [],
           "warnings": [
@@ -21,7 +21,7 @@
         "csv": {
           "rows": 576,
           "size_bytes": 186581,
-          "sha256": "2414d429fbb267306437e7b98ee68677b2306cbdb9aedc3cc0af1fd58a189f73",
+          "sha256": "547ef081f6ff062cb9e5ff7371f8370c6ef99b968bf4856a9e767889481cf610",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -29,7 +29,7 @@
         "xml": {
           "rows": 576,
           "size_bytes": 394648,
-          "sha256": "2803c92735829e0a7cb2a4ecd0762991cec2e01ada99bfa2a61868174a384c54",
+          "sha256": "1e7c83286335ce7faba67ca3b6d5beba8e75eb3d134d983bb842f7100bf802f4",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -37,7 +37,7 @@
         "geojson": {
           "rows": 550,
           "size_bytes": 410219,
-          "sha256": "535dd18d84fd734d12f00d9144ef50ca96b40bf1021ce50ceae86042409d83b0",
+          "sha256": "a039c947b15aab4cbbf3ddf9c7d9087810dd62a99812e06d33f9e7d4a300fb29",
           "valid": true,
           "errors": [],
           "warnings": [
@@ -49,7 +49,7 @@
         "kml": {
           "rows": 576,
           "size_bytes": 371539,
-          "sha256": "d115092280cea5ac7aebdc71b02f3b2fcaae41dbcfba77ab76f08f2e4dda7c7b",
+          "sha256": "518d76c2b1a7ab490083d8c9032cc76be696d4fc27b0ad33d8e950d7de9b4fee",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -57,7 +57,7 @@
         "gml": {
           "rows": 576,
           "size_bytes": 619353,
-          "sha256": "d6f9c84b75aa41e445292e6790cb4c92515da0c107361e48ae8a8787f880d53b",
+          "sha256": "e66bdf5aa2e0eac94637a0c25d7a6a914977e63ac94001cf0390b69f111d1c52",
           "valid": true,
           "errors": [],
           "warnings": []

@@ -1253,8 +1253,8 @@
       <url role="source_page">https://www.navarra.es/es/gobierno-de-navarra/organigrama/-/id/unidad/10005660</url>
     </urls>
     <contacts>
-      <contact kind="phone">948581864</contact>
       <contact kind="email">pfelizondo@cfnavarra.es</contact>
+      <contact kind="phone">948581864</contact>
     </contacts>
   </entity>
   <entity>
@@ -1273,8 +1273,8 @@
       <url role="source_page">https://www.navarra.es/es/gobierno-de-navarra/organigrama/-/id/unidad/10005660</url>
     </urls>
     <contacts>
-      <contact kind="phone">948555576</contact>
       <contact kind="email">pfestella@cfnavarra.es</contact>
+      <contact kind="phone">948555576</contact>
     </contacts>
   </entity>
   <entity>
@@ -3318,8 +3318,8 @@
       <url role="source_page">https://www.navarra.es/es/gobierno-de-navarra/organigrama/-/id/unidad/10005660</url>
     </urls>
     <contacts>
-      <contact kind="phone">948871614</contact>
       <contact kind="email">pfsanguesa@cfnavarra.es</contact>
+      <contact kind="phone">948871614</contact>
     </contacts>
   </entity>
   <entity>
@@ -3621,8 +3621,8 @@
       <url role="source_page">https://www.navarra.es/es/gobierno-de-navarra/organigrama/-/id/unidad/10005660</url>
     </urls>
     <contacts>
-      <contact kind="phone">948704265</contact>
       <contact kind="email">pftafalla@cfnavarra.es</contact>
+      <contact kind="phone">948704265</contact>
     </contacts>
   </entity>
   <entity>
@@ -3875,8 +3875,8 @@
       <url role="source_page">https://www.navarra.es/es/gobierno-de-navarra/organigrama/-/id/unidad/10005660</url>
     </urls>
     <contacts>
-      <contact kind="phone">848434500</contact>
       <contact kind="email">pftudela@cfnavarra.es</contact>
+      <contact kind="phone">848434500</contact>
     </contacts>
   </entity>
   <entity>
@@ -5451,9 +5451,9 @@
   <lat>40.4168</lat>
   <lon>-3.7038</lon>
     <urls>
+      <url role="map_page">https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038</url>
       <url role="official_site">https://policia.es</url>
       <url role="online_report">https://denuncias.policia.es/OVD/</url>
-      <url role="map_page">https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038</url>
     </urls>
     <extra>
       <sourceName>policia_nacional</sourceName>
@@ -9927,8 +9927,8 @@
       <url role="source_page">https://web.gencat.cat/ca/generalitat/com-ens-organitzem/adreces-i-telefons?unitatResp.departament=Departament%2520d%27Interior%2520i%2520Seguretat%2520P%25C3%25BAblica</url>
     </urls>
     <contacts>
-      <contact kind="phone">935108157</contact>
       <contact kind="email">itpg31176@gencat.cat</contact>
+      <contact kind="phone">935108157</contact>
     </contacts>
   </entity>
   <entity>

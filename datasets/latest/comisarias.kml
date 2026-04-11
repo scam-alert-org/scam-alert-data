@@ -3102,7 +3102,7 @@
     <ExtendedData>
       <Data name="id"><value>9eee8b78-878a-4d3d-82ef-149d3042c5d2</value></Data>
       <Data name="entity_kind_key"><value>police_station</value></Data>
-      <Data name="urls"><value>https://policia.es; https://denuncias.policia.es/OVD/; https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038</value></Data>
+      <Data name="urls"><value>https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038; https://policia.es; https://denuncias.policia.es/OVD/</value></Data>
     </ExtendedData>
     <Point><coordinates>-3.7038,40.4168,0</coordinates></Point>
   </Placemark>
