@@ -113,7 +113,7 @@
       <app:city>Madrid</app:city>
       <app:address>Fiesta Nacional: 23 de febrero</app:address>
       <app:phones>33153646760</app:phones>
-      <app:emails>s.france@mfa.gov.bn;ambassade.brunei@wanadoo.fr</app:emails>
+      <app:emails>ambassade.brunei@wanadoo.fr;s.france@mfa.gov.bn</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -442,7 +442,7 @@
       <app:address>Plaza Platería de Martínez, 1- 28014 - MADRID</app:address>
       <app:postal_code>28014</app:postal_code>
       <app:phones>914201602</app:phones>
-      <app:emails>syrianembassy.madrid@mofaex.gov.sy;syria.consulado@hotmail.com</app:emails>
+      <app:emails>syria.consulado@hotmail.com;syrianembassy.madrid@mofaex.gov.sy</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -616,7 +616,7 @@
       <app:city>Madrid</app:city>
       <app:address>Fiesta Nacional:21 de septiembre</app:address>
       <app:phones>915422262</app:phones>
-      <app:emails>armspainembassy@mfa.am;armconsularspain@mfa.am</app:emails>
+      <app:emails>armconsularspain@mfa.am;armspainembassy@mfa.am</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>

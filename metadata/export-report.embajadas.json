@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-12T21:38:25.686Z",
+  "generated_at": "2026-04-12T21:52:45.024Z",
   "run_date": "2026-04-12",
   "datasets": {
     "embajadas": {
       "kind": "embassy",
-      "canonical_hash": "8f3c1f91c9699940adc2e29196df8bb730142ac3c370a81cbbf34a17c8abb73d",
+      "canonical_hash": "196b9e6b835fc953ac2e3e4a9700f2fe451585b0638dbb7f2f43356af8ffa609",
       "source_rows": 340,
       "changed": true,
       "formats": {
         "json": {
           "rows": 340,
           "size_bytes": 545027,
-          "sha256": "b50d4b7a112172ef18f3c18809aa0f3b613b0ac13ea028741f94bc7be801d607",
+          "sha256": "8581a6297be6e75837e4b72495e6c86ce4ec7b3e08739e3576c9f05981c9290a",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -19,7 +19,7 @@
         "csv": {
           "rows": 340,
           "size_bytes": 373823,
-          "sha256": "e0cc32c38c664b63b643e516f68fe5bc8fb1f8ae28848872ce7a8610cf515ebb",
+          "sha256": "35a793877f9a2a812095d96d6ab4822d76d7ce966e1f9490f00fe20f7ad901b5",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -27,7 +27,7 @@
         "xml": {
           "rows": 340,
           "size_bytes": 517070,
-          "sha256": "05f3d998b52d29da16736990fcd8a9f5d1a66ac1b254668fc7efaea201737b4b",
+          "sha256": "8581a7268c5972d1ec23ae7088b7b4bd75d10eea22b004e270632e088899d609",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -35,7 +35,7 @@
         "geojson": {
           "rows": 312,
           "size_bytes": 502614,
-          "sha256": "0758d6bd4b47dfb9ec8c5560ccea01e2389e890630fd83e0c69bfe6de2cd486a",
+          "sha256": "292c84e8ac5adf23458884ab362151d1f4fcd8b3ca929778a57c484587d196b9",
           "valid": true,
           "errors": [],
           "warnings": [
@@ -55,7 +55,7 @@
         "gml": {
           "rows": 340,
           "size_bytes": 353486,
-          "sha256": "dcf369b568d94cb29b904be82641315665f0b22c140042f375ee4611f78a2244",
+          "sha256": "18fe0ad3d3f0d3b14a34305b585c8fa7afffd14e8d80fa188e9c0d8eb8d075d7",
           "valid": true,
           "errors": [],
           "warnings": []

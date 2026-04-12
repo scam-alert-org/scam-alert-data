@@ -7307,12 +7307,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "945064219"
-      },
-      {
         "kind": "email",
         "value": "adm_gasteiz@ertzaintza.eus"
+      },
+      {
+        "kind": "phone",
+        "value": "945064219"
       }
     ],
     "extra": {
@@ -9267,16 +9267,16 @@
     "lon": -3.7038,
     "urls": [
       {
+        "url": "https://www.openstreetmap.org/?mlat=40.4168&mlon=-3.7038#map=18/40.4168/-3.7038",
+        "role": "map_page"
+      },
+      {
         "url": "https://policia.es",
         "role": "official_site"
       },
       {
         "url": "https://denuncias.policia.es/OVD/",
         "role": "online_report"
-      },
-      {
-        "url": "https://www.openstreetmap.org/?mlat=40.4168&mlon=-3.7038#map=18/40.4168/-3.7038",
-        "role": "map_page"
       }
     ],
     "contacts": [],

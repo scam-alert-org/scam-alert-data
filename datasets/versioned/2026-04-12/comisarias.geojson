@@ -8847,9 +8847,9 @@
         "address": "Calle Mayor 1",
         "postal_code": null,
         "urls": [
+          "https://www.openstreetmap.org/?mlat=40.4168&mlon=-3.7038#map=18/40.4168/-3.7038",
           "https://policia.es",
-          "https://denuncias.policia.es/OVD/",
-          "https://www.openstreetmap.org/?mlat=40.4168&mlon=-3.7038#map=18/40.4168/-3.7038"
+          "https://denuncias.policia.es/OVD/"
         ],
         "phones": [],
         "emails": [],

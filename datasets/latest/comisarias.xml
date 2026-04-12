@@ -5173,8 +5173,8 @@
       <url role="source_page">https://opendata.euskadi.eus/contenidos/ds_localizaciones/organos_judiciales_euskadi/opendata/organos-judiciales.csv</url>
     </urls>
     <contacts>
-      <contact kind="phone">945064219</contact>
       <contact kind="email">adm_gasteiz@ertzaintza.eus</contact>
+      <contact kind="phone">945064219</contact>
     </contacts>
     <extra>
     </extra>
@@ -6492,9 +6492,9 @@
   <lat>40.4168</lat>
   <lon>-3.7038</lon>
     <urls>
+      <url role="map_page">https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038</url>
       <url role="official_site">https://policia.es</url>
       <url role="online_report">https://denuncias.policia.es/OVD/</url>
-      <url role="map_page">https://www.openstreetmap.org/?mlat=40.4168&amp;mlon=-3.7038#map=18/40.4168/-3.7038</url>
     </urls>
     <extra>
       <sourceName>policia_nacional</sourceName>
