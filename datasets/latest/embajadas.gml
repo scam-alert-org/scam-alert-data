@@ -1374,7 +1374,7 @@
       <app:city>Madrid</app:city>
       <app:address>Fiesta Nacional: 18 de noviembre</app:address>
       <app:phones>913691362</app:phones>
-      <app:emails>embassy.spain@mfa.gov.lv;consulate.spain@mfa.gov.lv</app:emails>
+      <app:emails>consulate.spain@mfa.gov.lv;embassy.spain@mfa.gov.lv</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -1555,7 +1555,7 @@
       <app:city>Madrid</app:city>
       <app:address>Fiesta Nacional: 27 de agosto</app:address>
       <app:phones>918287989</app:phones>
-      <app:emails>madrid@mfa.gov.md;consul.madrid@mfa.gov.md</app:emails>
+      <app:emails>consul.madrid@mfa.gov.md;madrid@mfa.gov.md</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -2046,7 +2046,7 @@
       <app:city>Madrid</app:city>
       <app:address>Fiesta Nacional: 11 de agosto</app:address>
       <app:phones>33145533675</app:phones>
-      <app:emails>s@wanadoo.fr;ambatchadparis@orange.fr</app:emails>
+      <app:emails>ambatchadparis@orange.fr;s@wanadoo.fr</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -3362,7 +3362,7 @@
       <app:city>Madrid</app:city>
       <app:address>Fiesta Nacional: 8 de septiembre</app:address>
       <app:phones>914317453</app:phones>
-      <app:emails>espanya@govern.ad;embajada@embajadaandorra.es</app:emails>
+      <app:emails>embajada@embajadaandorra.es;espanya@govern.ad</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -3951,7 +3951,7 @@
       <app:address>C/ Salustiano Olózaga, 9 28001 - MADRID</app:address>
       <app:postal_code>28001</app:postal_code>
       <app:phones>914238900</app:phones>
-      <app:emails>prenom.nm@dgtresor.gouv.fr;defense.madrid-amba@diplomatie.gouv.fr</app:emails>
+      <app:emails>defense.madrid-amba@diplomatie.gouv.fr;prenom.nm@dgtresor.gouv.fr</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -3986,7 +3986,7 @@
       <app:address>Avda. Pío XII, 30-32 28016 - MADRID</app:address>
       <app:postal_code>28016</app:postal_code>
       <app:phones>902901010</app:phones>
-      <app:emails>socsec.madrid@mea.gov.in;counsellor@mea.gov.in;hoc.madrid@mea.gov.in</app:emails>
+      <app:emails>counsellor@mea.gov.in;hoc.madrid@mea.gov.in;socsec.madrid@mea.gov.in</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4010,7 +4010,7 @@
       <app:address>C/ Agastia, 65 28043 - MADRID</app:address>
       <app:postal_code>28043</app:postal_code>
       <app:phones>914130294</app:phones>
-      <app:emails>madrid.kbri@kemlu.go.id;consulado.madrid@kemlu.go.id;economia.madrid@kemlu.go.id;cultura.madrid@kemlu.go.id;comercio.madrid@kemlu.go.id;politica.madrid@kemlu.go.id</app:emails>
+      <app:emails>comercio.madrid@kemlu.go.id;consulado.madrid@kemlu.go.id;cultura.madrid@kemlu.go.id;economia.madrid@kemlu.go.id;madrid.kbri@kemlu.go.id;politica.madrid@kemlu.go.id</app:emails>
       <app:urls>https://kemlu.go.id/madrid/;https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4128,7 +4128,7 @@
       <app:address>Carrera de San Jerónimo, 46. 28014 - MADRID</app:address>
       <app:postal_code>28014</app:postal_code>
       <app:phones>913692814</app:phones>
-      <app:emails>comunicacionesesp@sre.gob.mx;a@pgeuropa.es;espana.agdria@sedena.gob.mx;agrenavesp@semar.gob.mx</app:emails>
+      <app:emails>a@pgeuropa.es;agrenavesp@semar.gob.mx;comunicacionesesp@sre.gob.mx;espana.agdria@sedena.gob.mx</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4271,7 +4271,7 @@
       <app:address>Avda. Pío XII, 22-24. C.P. 28016 - MADRID</app:address>
       <app:postal_code>28016</app:postal_code>
       <app:phones>913531880</app:phones>
-      <app:emails>madrid@embassy.mzv.cz;madrid.consulate@mzv.gov.cz</app:emails>
+      <app:emails>madrid.consulate@mzv.gov.cz;madrid@embassy.mzv.cz</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4295,7 +4295,7 @@
       <app:address>C/ Velázquez, 155 28002 - MADRID</app:address>
       <app:postal_code>28002</app:postal_code>
       <app:phones>915622264</app:phones>
-      <app:emails>embrues@mid.ru;consm@.arrakis.eswww.rusmad.com;info@rusiaspain.comwww.rusiaspain.com</app:emails>
+      <app:emails>consm@.arrakis.eswww.rusmad.com;embrues@mid.ru;info@rusiaspain.comwww.rusiaspain.com</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4343,7 +4343,7 @@
       <app:address>C/ Velázquez, nº 3-2ª planta - 28001 - MADRID</app:address>
       <app:postal_code>28001</app:postal_code>
       <app:phones>915635045</app:phones>
-      <app:emails>srb.emb.spain@mfa.rs;secretaria.madrid@mfa.rs;konz.madrid@mfa.rs</app:emails>
+      <app:emails>konz.madrid@mfa.rs;secretaria.madrid@mfa.rs;srb.emb.spain@mfa.rs</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4391,7 +4391,7 @@
       <app:address>C/ Ronda de la Abubilla nº 52.- 28043- MADRID</app:address>
       <app:postal_code>28043</app:postal_code>
       <app:phones>917489360</app:phones>
-      <app:emails>emb_es@mfa.gov.ua;consulvl@ya.com</app:emails>
+      <app:emails>consulvl@ya.com;emb_es@mfa.gov.ua</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4510,7 +4510,7 @@
       <app:address>C/ Fernando el Santo, 15, 1ª planta . 28010 - MADRID</app:address>
       <app:postal_code>28010</app:postal_code>
       <app:phones>917710500</app:phones>
-      <app:emails>eespa@mrecic.gov.ar;agredef.esp.argentina@hotmail.com</app:emails>
+      <app:emails>agredef.esp.argentina@hotmail.com;eespa@mrecic.gov.ar</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4628,7 +4628,7 @@
       <app:address>C/ Fernando el Santo 6, 28010 - MADRID</app:address>
       <app:postal_code>28010</app:postal_code>
       <app:phones>917004650</app:phones>
-      <app:emails>brasemb.madrid@itamaraty.gov.br;ministro.madrid@itamaraty.gov.br;protocolo.madrid@itamaraty.gov.br;adm.madrid@itamaraty.gov.br;secom.madrid@itamaraty.gov.br;economico.madrid@itamaraty.gov.br;cultural.madrid@itamaraty.gov.br;prensa.madrid@itamaraty.gov.br;politico.madrid@itamaraty.gov.br</app:emails>
+      <app:emails>adm.madrid@itamaraty.gov.br;brasemb.madrid@itamaraty.gov.br;cultural.madrid@itamaraty.gov.br;economico.madrid@itamaraty.gov.br;ministro.madrid@itamaraty.gov.br;politico.madrid@itamaraty.gov.br;prensa.madrid@itamaraty.gov.br;protocolo.madrid@itamaraty.gov.br;secom.madrid@itamaraty.gov.br</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4676,7 +4676,7 @@
       <app:address>C/ Serrano, 27, 4 izq. 28001 MADRID</app:address>
       <app:postal_code>28001</app:postal_code>
       <app:phones>915783114</app:phones>
-      <app:emails>madridembassy@mfa.gov.cy;madridconsulate@mfa.gov.cy</app:emails>
+      <app:emails>madridconsulate@mfa.gov.cy;madridembassy@mfa.gov.cy</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4747,7 +4747,7 @@
       <app:address>Calle Antonio Maura, 12, 1ª Planta..-. 28014 MADRID</app:address>
       <app:postal_code>28014</app:postal_code>
       <app:phones>914290155</app:phones>
-      <app:emails>embassymadrid@mfa.gov.ge;consuladogeo@mfa.gov.ge</app:emails>
+      <app:emails>consuladogeo@mfa.gov.ge;embassymadrid@mfa.gov.ge</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4795,7 +4795,7 @@
       <app:address>C/ Eresma, 2 28002 - MADRID</app:address>
       <app:postal_code>28002</app:postal_code>
       <app:phones>917823830</app:phones>
-      <app:emails>madrid.pe@dfa.gov.ph;madridpe@yahoo.com;oficinalaboral@philembassymadrid.com;polomadrid2020@gmail.com;madridpe@terra.es</app:emails>
+      <app:emails>madrid.pe@dfa.gov.ph;madridpe@terra.es;madridpe@yahoo.com;oficinalaboral@philembassymadrid.com;polomadrid2020@gmail.com</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4819,7 +4819,7 @@
       <app:address>Pº. de la Castellana, 15, 4º. 28046 - MADRID</app:address>
       <app:postal_code>28046</app:postal_code>
       <app:phones>913196172</app:phones>
-      <app:emails>sanomat.mad@gov.fi;consular.mad@gov.fi</app:emails>
+      <app:emails>consular.mad@gov.fi;sanomat.mad@gov.fi</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4843,7 +4843,7 @@
       <app:address>Avda. Doctor Arce, 24 28002 - MADRID</app:address>
       <app:postal_code>28002</app:postal_code>
       <app:phones>915644699</app:phones>
-      <app:emails>gremb.mad@mfa.gr;defattache.embagrec@gmail.com;ecocom-madrid@mfa.gr;pdo.mad@mfa.gr;grcon.mad@mfa.gr;grinfo.mad@mfa.gr</app:emails>
+      <app:emails>defattache.embagrec@gmail.com;ecocom-madrid@mfa.gr;grcon.mad@mfa.gr;gremb.mad@mfa.gr;grinfo.mad@mfa.gr;pdo.mad@mfa.gr</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4867,7 +4867,7 @@
       <app:address>Paseo de la Castellana nº 134-1ºD. - 28046-MADRID</app:address>
       <app:postal_code>28046</app:postal_code>
       <app:phones>913595150</app:phones>
-      <app:emails>honduras.info@embahn.es;consulado@embahondduras.es</app:emails>
+      <app:emails>consulado@embahondduras.es;honduras.info@embahn.es</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -4987,7 +4987,7 @@
       <app:address>C/ Lagasca 88-4ºC 28001 - MADRID</app:address>
       <app:postal_code>28001</app:postal_code>
       <app:phones>917824960</app:phones>
-      <app:emails>madrid@mne.pt;sconsular.madrid@mne.pt;adidodef.madrid@emgfa.pt;cepe.espanha@camoes.mne.pt;aicep.madrid@portugalglobal.pt</app:emails>
+      <app:emails>adidodef.madrid@emgfa.pt;aicep.madrid@portugalglobal.pt;cepe.espanha@camoes.mne.pt;madrid@mne.pt;sconsular.madrid@mne.pt</app:emails>
       <app:urls>https://madrid.embaixadaportugal.mne.pt/;https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -5059,7 +5059,7 @@
       <app:address>C/ Joaquín Costa, 29. 28002 MADRID</app:address>
       <app:postal_code>28002</app:postal_code>
       <app:phones>915630190</app:phones>
-      <app:emails>contacto@thaiembmadrid.es;thaicom@codenif.com;navymadrid@hotmail.com</app:emails>
+      <app:emails>contacto@thaiembmadrid.es;navymadrid@hotmail.com;thaicom@codenif.com</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -5511,7 +5511,7 @@
       <app:address>C/ Guisando, 23 bis 28035 - MADRID</app:address>
       <app:postal_code>28035</app:postal_code>
       <app:phones>913736605</app:phones>
-      <app:emails>madryt.amb.sekretariat@msz.gov.pl;madryt.amb.wk@msz.gov.pl;embajada.madrid@msz.gov.pl</app:emails>
+      <app:emails>embajada.madrid@msz.gov.pl;madryt.amb.sekretariat@msz.gov.pl;madryt.amb.wk@msz.gov.pl</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -6647,7 +6647,7 @@
       <app:city>Madrid</app:city>
       <app:address>Pº de la Castellana nº 67 (Nuevos Ministerios-M. de Fomento) - D 609-611-613.</app:address>
       <app:phones>915978186</app:phones>
-      <app:emails>spain@onuhabitat.org;info@cityresilience.org</app:emails>
+      <app:emails>info@cityresilience.org;spain@onuhabitat.org</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -6692,7 +6692,7 @@
       <app:address>C/ Velázquez, 69 28006 - MADRID</app:address>
       <app:postal_code>28006</app:postal_code>
       <app:phones>915776308</app:phones>
-      <app:emails>consuladoegiptomadrid@gmail.com;ecros@ecros.org;madrid@ecs.gov.eg;edamadrid@mod.gov.eg;secretaria@institutoegipcio.com;embajadaegiptomadrid@gmail.com</app:emails>
+      <app:emails>consuladoegiptomadrid@gmail.com;ecros@ecros.org;edamadrid@mod.gov.eg;embajadaegiptomadrid@gmail.com;madrid@ecs.gov.eg;secretaria@institutoegipcio.com</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -7185,7 +7185,7 @@
       <app:address>C/ Velázquez nº 114- 2º Dcha.- 28006 - MADRID</app:address>
       <app:postal_code>28006</app:postal_code>
       <app:phones>91562721516</app:phones>
-      <app:emails>madrid@proecuador.gob.ec;agregaduriaft-espana@ejercito.mil.ec;agreaeroesp@ccffaa.mil.ec;agregapoliespa@gmail.com</app:emails>
+      <app:emails>agreaeroesp@ccffaa.mil.ec;agregaduriaft-espana@ejercito.mil.ec;agregapoliespa@gmail.com;madrid@proecuador.gob.ec</app:emails>
       <app:urls>https://espana.embajada.gob.ec/;https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>
@@ -7233,7 +7233,7 @@
       <app:address>C/ Pedro Valdivia, 16 28006 - MADRID</app:address>
       <app:postal_code>28006</app:postal_code>
       <app:phones>913458995</app:phones>
-      <app:emails>parepmadrid@mofa.gov.pk;comercio@embajada-pakistan.org</app:emails>
+      <app:emails>comercio@embajada-pakistan.org;parepmadrid@mofa.gov.pk</app:emails>
       <app:urls>https://www.exteriores.gob.es/es/Ministerio/Protocolo/Documents/2ALISTA.pdf</app:urls>
     </app:entity>
   </gml:featureMember>

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-12T20:51:43.859Z",
+  "generated_at": "2026-04-12T21:38:25.686Z",
   "run_date": "2026-04-12",
   "datasets": {
     "embajadas": {
       "kind": "embassy",
-      "canonical_hash": "33f5e87a81e3acc4a767851d10f72171231072ce0156436614d9fd0f875bf9b7",
+      "canonical_hash": "8f3c1f91c9699940adc2e29196df8bb730142ac3c370a81cbbf34a17c8abb73d",
       "source_rows": 340,
       "changed": true,
       "formats": {
         "json": {
           "rows": 340,
           "size_bytes": 545027,
-          "sha256": "52ae5f641922c03b419a0bee1de85bb5d3b9ca623999013ba4b5e35932423c87",
+          "sha256": "b50d4b7a112172ef18f3c18809aa0f3b613b0ac13ea028741f94bc7be801d607",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -19,7 +19,7 @@
         "csv": {
           "rows": 340,
           "size_bytes": 373823,
-          "sha256": "f7097948463982e24c46d3e7518456d56a0694f9f4bd129df276cedd251eb86e",
+          "sha256": "e0cc32c38c664b63b643e516f68fe5bc8fb1f8ae28848872ce7a8610cf515ebb",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -27,7 +27,7 @@
         "xml": {
           "rows": 340,
           "size_bytes": 517070,
-          "sha256": "e2b92f9ab1098e66d35232f7f916a2ae427b02ee95163ded5a48b2e1b5c4807e",
+          "sha256": "05f3d998b52d29da16736990fcd8a9f5d1a66ac1b254668fc7efaea201737b4b",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -35,7 +35,7 @@
         "geojson": {
           "rows": 312,
           "size_bytes": 502614,
-          "sha256": "7464cc843a8e8b8a39d481c5cfe9b598fd4196220e9ac8ac894b4b05c51b84fc",
+          "sha256": "0758d6bd4b47dfb9ec8c5560ccea01e2389e890630fd83e0c69bfe6de2cd486a",
           "valid": true,
           "errors": [],
           "warnings": [
@@ -55,7 +55,7 @@
         "gml": {
           "rows": 340,
           "size_bytes": 353486,
-          "sha256": "47d7079e9fb9bd0f26a24e18857fd340270f14b9610e7adac4a8a96606c10f71",
+          "sha256": "dcf369b568d94cb29b904be82641315665f0b22c140042f375ee4611f78a2244",
           "valid": true,
           "errors": [],
           "warnings": []

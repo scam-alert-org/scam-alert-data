@@ -1972,12 +1972,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "911389379"
-      },
-      {
         "kind": "email",
         "value": "embaixada.guinebissau.madrid@gmail.com"
+      },
+      {
+        "kind": "phone",
+        "value": "911389379"
       }
     ],
     "extra": {
@@ -2080,12 +2080,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915752624"
-      },
-      {
         "kind": "fax",
         "value": "914314600"
+      },
+      {
+        "kind": "phone",
+        "value": "915752624"
       }
     ],
     "extra": {
@@ -2353,16 +2353,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33156881590"
-      },
-      {
         "kind": "email",
         "value": "paris-embassy@mofa.gov.mm"
       },
       {
         "kind": "fax",
         "value": "33957354182"
+      },
+      {
+        "kind": "phone",
+        "value": "33156881590"
       }
     ],
     "extra": {
@@ -2399,8 +2399,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913691362"
+        "kind": "email",
+        "value": "consulate.spain@mfa.gov.lv"
       },
       {
         "kind": "email",
@@ -2411,8 +2411,8 @@
         "value": "913690020"
       },
       {
-        "kind": "email",
-        "value": "consulate.spain@mfa.gov.lv"
+        "kind": "phone",
+        "value": "913691362"
       }
     ],
     "extra": {
@@ -2487,16 +2487,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917022116"
-      },
-      {
         "kind": "email",
         "value": "amb.es@urm.lt"
       },
       {
         "kind": "email",
         "value": "consul.es@urm.lt"
+      },
+      {
+        "kind": "phone",
+        "value": "917022116"
       }
     ],
     "extra": {
@@ -2533,16 +2533,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33182839200"
-      },
-      {
         "kind": "email",
         "value": "infoambamadparis@yahoo.fr"
       },
       {
         "kind": "fax",
         "value": "33145035870"
+      },
+      {
+        "kind": "phone",
+        "value": "33182839200"
       }
     ],
     "extra": {
@@ -2579,16 +2579,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "+442074216010"
-      },
-      {
         "kind": "email",
         "value": "london@malawihighcommission.co.uk"
       },
       {
         "kind": "fax",
         "value": "02078319273"
+      },
+      {
+        "kind": "phone",
+        "value": "+442074216010"
       }
     ],
     "extra": {
@@ -2662,12 +2662,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "911235940"
-      },
-      {
         "kind": "email",
         "value": "maltaembassy.madrid@gov.mt"
+      },
+      {
+        "kind": "phone",
+        "value": "911235940"
       }
     ],
     "extra": {
@@ -2704,16 +2704,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33142273019"
-      },
-      {
         "kind": "email",
         "value": "paris@amb-maurice.fr"
       },
       {
         "kind": "fax",
         "value": "33140530291"
+      },
+      {
+        "kind": "phone",
+        "value": "33142273019"
       }
     ],
     "extra": {
@@ -2750,8 +2750,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "918287989"
+        "kind": "email",
+        "value": "consul.madrid@mfa.gov.md"
       },
       {
         "kind": "email",
@@ -2762,8 +2762,8 @@
         "value": "917045029"
       },
       {
-        "kind": "email",
-        "value": "consul.madrid@mfa.gov.md"
+        "kind": "phone",
+        "value": "918287989"
       }
     ],
     "extra": {
@@ -2838,16 +2838,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33144173265"
-      },
-      {
         "kind": "email",
         "value": "namparis@embassyofnamibia.fr"
       },
       {
         "kind": "fax",
         "value": "33144173273"
+      },
+      {
+        "kind": "phone",
+        "value": "33144173265"
       }
     ],
     "extra": {
@@ -2917,16 +2917,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33145048060"
-      },
-      {
         "kind": "email",
         "value": "ambassadeniger@wanadoo.fr"
       },
       {
         "kind": "fax",
         "value": "33145047973"
+      },
+      {
+        "kind": "phone",
+        "value": "33145048060"
       }
     ],
     "extra": {
@@ -3029,16 +3029,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915639000"
-      },
-      {
         "kind": "email",
         "value": "amb.spagna@gov.sm"
       },
       {
         "kind": "fax",
         "value": "915631931"
+      },
+      {
+        "kind": "phone",
+        "value": "915639000"
       }
     ],
     "extra": {
@@ -3108,12 +3108,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33142305747"
-      },
-      {
         "kind": "email",
         "value": "contact@ambsey.fr"
+      },
+      {
+        "kind": "phone",
+        "value": "33142305747"
       }
     ],
     "extra": {
@@ -3150,16 +3150,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "442074040140"
-      },
-      {
         "kind": "email",
         "value": "info@slhc-uk.org.uk"
       },
       {
         "kind": "fax",
         "value": "442074309862"
+      },
+      {
+        "kind": "phone",
+        "value": "442074040140"
       }
     ],
     "extra": {
@@ -3196,16 +3196,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "6563798000"
-      },
-      {
         "kind": "email",
         "value": "jenniechua@guocoland.com"
       },
       {
         "kind": "fax",
         "value": "6564747885"
+      },
+      {
+        "kind": "phone",
+        "value": "6563798000"
       }
     ],
     "extra": {
@@ -3242,16 +3242,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914363780"
-      },
-      {
         "kind": "email",
         "value": "madrid.embassy@dirco.gov.za"
       },
       {
         "kind": "fax",
         "value": "915777414"
+      },
+      {
+        "kind": "phone",
+        "value": "914363780"
       }
     ],
     "extra": {
@@ -3288,12 +3288,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "+41227341140"
-      },
-      {
         "kind": "fax",
         "value": "+41227341158"
+      },
+      {
+        "kind": "phone",
+        "value": "+41227341140"
       }
     ],
     "extra": {
@@ -3330,16 +3330,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33143801213"
-      },
-      {
         "kind": "email",
         "value": "france@ambassadetogo.org"
       },
       {
         "kind": "fax",
         "value": "33143800605"
+      },
+      {
+        "kind": "phone",
+        "value": "33143801213"
       }
     ],
     "extra": {
@@ -3380,16 +3380,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "32027629400"
-      },
-      {
         "kind": "email",
         "value": "info@foreing.gov.tt"
       },
       {
         "kind": "fax",
         "value": "32027722783"
+      },
+      {
+        "kind": "phone",
+        "value": "32027629400"
       }
     ],
     "extra": {
@@ -3426,12 +3426,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "+493030102452"
-      },
-      {
         "kind": "email",
         "value": "info@botschaft-turkmenistan.de"
+      },
+      {
+        "kind": "phone",
+        "value": "+493030102452"
       }
     ],
     "extra": {
@@ -3501,16 +3501,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33156901220"
+        "kind": "email",
+        "value": "uganda.embassy@club-internet.fr"
       },
       {
         "kind": "fax",
         "value": "33145052122"
       },
       {
-        "kind": "email",
-        "value": "uganda.embassy@club-internet.fr"
+        "kind": "phone",
+        "value": "33156901220"
       }
     ],
     "extra": {
@@ -3547,16 +3547,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33156881272"
-      },
-      {
         "kind": "email",
         "value": "paris@grz.gov.zm"
       },
       {
         "kind": "fax",
         "value": "33156880350"
+      },
+      {
+        "kind": "phone",
+        "value": "33156881272"
       }
     ],
     "extra": {
@@ -3593,16 +3593,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33156881600"
-      },
-      {
         "kind": "email",
         "value": "swweb@wanadoo.fr"
       },
       {
         "kind": "fax",
         "value": "33156881609"
+      },
+      {
+        "kind": "phone",
+        "value": "33156881600"
       }
     ],
     "extra": {
@@ -3672,8 +3672,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33145533675"
+        "kind": "email",
+        "value": "ambatchadparis@orange.fr"
       },
       {
         "kind": "email",
@@ -3684,8 +3684,8 @@
         "value": "33145531609"
       },
       {
-        "kind": "email",
-        "value": "ambatchadparis@orange.fr"
+        "kind": "phone",
+        "value": "33145533675"
       }
     ],
     "extra": {
@@ -3722,16 +3722,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33145006057"
-      },
-      {
         "kind": "email",
         "value": "ambacongofrance@gmail.com"
       },
       {
         "kind": "fax",
         "value": "33145671733"
+      },
+      {
+        "kind": "phone",
+        "value": "33145006057"
       }
     ],
     "extra": {
@@ -3900,16 +3900,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914174903"
-      },
-      {
         "kind": "email",
         "value": "amb.ofc.sudan@gmail.com"
       },
       {
         "kind": "fax",
         "value": "915972516"
+      },
+      {
+        "kind": "phone",
+        "value": "914174903"
       }
     ],
     "extra": {
@@ -3946,16 +3946,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914119950"
+        "kind": "email",
+        "value": "secretaria.madrid@mofa-ye.org"
       },
       {
         "kind": "fax",
         "value": "915623865"
       },
       {
-        "kind": "email",
-        "value": "secretaria.madrid@mofa-ye.org"
+        "kind": "phone",
+        "value": "914119950"
       }
     ],
     "extra": {
@@ -5930,16 +5930,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914359164"
-      },
-      {
         "kind": "email",
         "value": "madrid.amb@mae.etat.lu"
       },
       {
         "kind": "fax",
         "value": "915774826"
+      },
+      {
+        "kind": "phone",
+        "value": "914359164"
       }
     ],
     "extra": {
@@ -5980,16 +5980,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913451368"
+        "kind": "email",
+        "value": "madrid.leb1@gmail.com"
       },
       {
         "kind": "fax",
         "value": "913455631"
       },
       {
-        "kind": "email",
-        "value": "madrid.leb1@gmail.com"
+        "kind": "phone",
+        "value": "913451368"
       }
     ],
     "extra": {
@@ -6026,8 +6026,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914317453"
+        "kind": "email",
+        "value": "embajada@embajadaandorra.es"
       },
       {
         "kind": "email",
@@ -6038,8 +6038,8 @@
         "value": "915776341"
       },
       {
-        "kind": "email",
-        "value": "embajada@embajadaandorra.es"
+        "kind": "phone",
+        "value": "914317453"
       }
     ],
     "extra": {
@@ -6076,16 +6076,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915782048"
-      },
-      {
         "kind": "email",
         "value": "emb.espana@diplomatie.gouv.mc"
       },
       {
         "kind": "fax",
         "value": "914357132"
+      },
+      {
+        "kind": "phone",
+        "value": "915782048"
       }
     ],
     "extra": {
@@ -6155,16 +6155,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "+442072019170"
-      },
-      {
         "kind": "email",
         "value": "information@bahrainembassy.co.uk"
       },
       {
         "kind": "fax",
         "value": "+442072019183"
+      },
+      {
+        "kind": "phone",
+        "value": "+442072019170"
       }
     ],
     "extra": {
@@ -6234,16 +6234,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "3227619572"
-      },
-      {
         "kind": "email",
         "value": "rbe.brussels@mfa.gov.bt"
       },
       {
         "kind": "fax",
         "value": "3227619577"
+      },
+      {
+        "kind": "phone",
+        "value": "3227619572"
       }
     ],
     "extra": {
@@ -6280,16 +6280,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "33145034720"
+        "kind": "email",
+        "value": "arc@ambcambodgeparis.info"
       },
       {
         "kind": "fax",
         "value": "33145034740"
       },
       {
-        "kind": "email",
-        "value": "arc@ambcambodgeparis.info"
+        "kind": "phone",
+        "value": "33145034720"
       }
     ],
     "extra": {
@@ -6330,16 +6330,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "442076306611"
-      },
-      {
         "kind": "email",
         "value": "eswatinilondonhc@gmail.com"
       },
       {
         "kind": "fax",
         "value": "442076306564"
+      },
+      {
+        "kind": "phone",
+        "value": "442076306611"
       }
     ],
     "extra": {
@@ -6376,16 +6376,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "442072355686"
-      },
-      {
         "kind": "email",
         "value": "hicom@lesotholondon.org.uk"
       },
       {
         "kind": "fax",
         "value": "442072355023"
+      },
+      {
+        "kind": "phone",
+        "value": "442072355686"
       }
     ],
     "extra": {
@@ -6563,16 +6563,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914318445"
-      },
-      {
         "kind": "email",
         "value": "madamb@um.dk"
       },
       {
         "kind": "fax",
         "value": "914319168"
+      },
+      {
+        "kind": "phone",
+        "value": "914318445"
       }
     ],
     "extra": {
@@ -6708,12 +6708,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915872200"
-      },
-      {
         "kind": "fax",
         "value": "915872303"
+      },
+      {
+        "kind": "phone",
+        "value": "915872200"
       }
     ],
     "extra": {
@@ -6750,20 +6750,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915565315"
+        "kind": "email",
+        "value": "madrid-ob@bmeia.gv.at"
       },
       {
         "kind": "email",
-        "value": "madrid-ob@bmeia.gv.at"
+        "value": "madrid@advantageaustria.org"
       },
       {
         "kind": "fax",
         "value": "915973579"
       },
       {
-        "kind": "email",
-        "value": "madrid@advantageaustria.org"
+        "kind": "phone",
+        "value": "915565315"
       }
     ],
     "extra": {
@@ -6800,16 +6800,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915711160"
-      },
-      {
         "kind": "email",
         "value": "ambacammadrid@telefonica.net"
       },
       {
         "kind": "fax",
         "value": "915712504"
+      },
+      {
+        "kind": "phone",
+        "value": "915711160"
       }
     ],
     "extra": {
@@ -6846,16 +6846,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913828400"
-      },
-      {
         "kind": "email",
         "value": "mdridg@international.gc.ca"
       },
       {
         "kind": "fax",
         "value": "913828490"
+      },
+      {
+        "kind": "phone",
+        "value": "913828400"
       }
     ],
     "extra": {
@@ -6892,12 +6892,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914319160"
-      },
-      {
         "kind": "fax",
         "value": "915775560"
+      },
+      {
+        "kind": "phone",
+        "value": "914319160"
       }
     ],
     "extra": {
@@ -6938,16 +6938,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913532000"
-      },
-      {
         "kind": "email",
         "value": "embspain.adm@mofa.go.kr"
       },
       {
         "kind": "fax",
         "value": "913532001"
+      },
+      {
+        "kind": "phone",
+        "value": "913532000"
       }
     ],
     "extra": {
@@ -6984,16 +6984,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915626916"
-      },
-      {
         "kind": "email",
         "value": "info@espagne.diplomatie.gouv.ci"
       },
       {
         "kind": "fax",
         "value": "915622193"
+      },
+      {
+        "kind": "phone",
+        "value": "915626916"
       }
     ],
     "extra": {
@@ -7030,16 +7030,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913592500"
-      },
-      {
         "kind": "email",
         "value": "secretaria@es.embacuba.cu"
       },
       {
         "kind": "fax",
         "value": "913596145"
+      },
+      {
+        "kind": "phone",
+        "value": "913592500"
       }
     ],
     "extra": {
@@ -7076,16 +7076,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915701001020304"
-      },
-      {
         "kind": "email",
         "value": "madridemb@mofa.gov.ae"
       },
       {
         "kind": "fax",
         "value": "915715176"
+      },
+      {
+        "kind": "phone",
+        "value": "915701001020304"
       }
     ],
     "extra": {
@@ -7122,20 +7122,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914238900"
-      },
-      {
-        "kind": "fax",
-        "value": "914238908"
+        "kind": "email",
+        "value": "defense.madrid-amba@diplomatie.gouv.fr"
       },
       {
         "kind": "email",
         "value": "prenom.nm@dgtresor.gouv.fr"
       },
       {
-        "kind": "email",
-        "value": "defense.madrid-amba@diplomatie.gouv.fr"
+        "kind": "fax",
+        "value": "914238908"
+      },
+      {
+        "kind": "phone",
+        "value": "914238900"
       }
     ],
     "extra": {
@@ -7206,19 +7206,19 @@
     "contacts": [
       {
         "kind": "email",
-        "value": "socsec.madrid@mea.gov.in"
-      },
-      {
-        "kind": "fax",
-        "value": "913451112"
-      },
-      {
-        "kind": "email",
         "value": "counsellor@mea.gov.in"
       },
       {
         "kind": "email",
         "value": "hoc.madrid@mea.gov.in"
+      },
+      {
+        "kind": "email",
+        "value": "socsec.madrid@mea.gov.in"
+      },
+      {
+        "kind": "fax",
+        "value": "913451112"
       },
       {
         "kind": "phone",
@@ -7263,16 +7263,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914130294"
-      },
-      {
         "kind": "email",
-        "value": "madrid.kbri@kemlu.go.id"
-      },
-      {
-        "kind": "fax",
-        "value": "914138994"
+        "value": "comercio.madrid@kemlu.go.id"
       },
       {
         "kind": "email",
@@ -7280,19 +7272,27 @@
       },
       {
         "kind": "email",
-        "value": "economia.madrid@kemlu.go.id"
-      },
-      {
-        "kind": "email",
         "value": "cultura.madrid@kemlu.go.id"
       },
       {
         "kind": "email",
-        "value": "comercio.madrid@kemlu.go.id"
+        "value": "economia.madrid@kemlu.go.id"
+      },
+      {
+        "kind": "email",
+        "value": "madrid.kbri@kemlu.go.id"
       },
       {
         "kind": "email",
         "value": "politica.madrid@kemlu.go.id"
+      },
+      {
+        "kind": "fax",
+        "value": "914138994"
+      },
+      {
+        "kind": "phone",
+        "value": "914130294"
       }
     ],
     "extra": {
@@ -7329,12 +7329,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915907600"
-      },
-      {
         "kind": "fax",
         "value": "915901321"
+      },
+      {
+        "kind": "phone",
+        "value": "915907600"
       }
     ],
     "extra": {
@@ -7375,16 +7375,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917216290"
-      },
-      {
         "kind": "email",
         "value": "madrid@mfa.kz"
       },
       {
         "kind": "fax",
         "value": "917219374"
+      },
+      {
+        "kind": "phone",
+        "value": "917216290"
       }
     ],
     "extra": {
@@ -7463,16 +7463,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915717298"
+        "kind": "email",
+        "value": "madrid@mfa.gov.mksecretary.madrid"
       },
       {
         "kind": "fax",
         "value": "915713481"
       },
       {
-        "kind": "email",
-        "value": "madrid@mfa.gov.mksecretary.madrid"
+        "kind": "phone",
+        "value": "915717298"
       }
     ],
     "extra": {
@@ -7509,28 +7509,28 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913692814"
+        "kind": "email",
+        "value": "a@pgeuropa.es"
+      },
+      {
+        "kind": "email",
+        "value": "agrenavesp@semar.gob.mx"
       },
       {
         "kind": "email",
         "value": "comunicacionesesp@sre.gob.mx"
       },
       {
-        "kind": "fax",
-        "value": "914202292"
-      },
-      {
-        "kind": "email",
-        "value": "a@pgeuropa.es"
-      },
-      {
         "kind": "email",
         "value": "espana.agdria@sedena.gob.mx"
       },
       {
-        "kind": "email",
-        "value": "agrenavesp@semar.gob.mx"
+        "kind": "fax",
+        "value": "914202292"
+      },
+      {
+        "kind": "phone",
+        "value": "913692814"
       }
     ],
     "extra": {
@@ -7567,16 +7567,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915630911"
-      },
-      {
         "kind": "email",
         "value": "info@nigeriaembassymadrid.org"
       },
       {
         "kind": "fax",
         "value": "914116700"
+      },
+      {
+        "kind": "phone",
+        "value": "915630911"
       }
     ],
     "extra": {
@@ -7613,20 +7613,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914363840"
+        "kind": "email",
+        "value": "emb.madrid@mfa.no"
       },
       {
         "kind": "email",
-        "value": "emb.madrid@mfa.no"
+        "value": "madrid@invanor.no"
       },
       {
         "kind": "fax",
         "value": "914363879"
       },
       {
-        "kind": "email",
-        "value": "madrid@invanor.no"
+        "kind": "phone",
+        "value": "914363840"
       }
     ],
     "extra": {
@@ -7663,16 +7663,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913537500"
-      },
-      {
         "kind": "email",
         "value": "mad-az@minbuza.nl"
       },
       {
         "kind": "fax",
         "value": "913537565"
+      },
+      {
+        "kind": "phone",
+        "value": "913537500"
       }
     ],
     "extra": {
@@ -7709,16 +7709,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915765001"
-      },
-      {
         "kind": "email",
         "value": "embpanamaespana@mire.gob.pa"
       },
       {
         "kind": "fax",
         "value": "915767161"
+      },
+      {
+        "kind": "phone",
+        "value": "915765001"
       }
     ],
     "extra": {
@@ -7793,8 +7793,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913531880"
+        "kind": "email",
+        "value": "madrid.consulate@mzv.gov.cz"
       },
       {
         "kind": "email",
@@ -7805,8 +7805,8 @@
         "value": "913531898"
       },
       {
-        "kind": "email",
-        "value": "madrid.consulate@mzv.gov.cz"
+        "kind": "phone",
+        "value": "913531880"
       }
     ],
     "extra": {
@@ -7843,24 +7843,24 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915622264"
+        "kind": "email",
+        "value": "consm@.arrakis.eswww.rusmad.com"
       },
       {
         "kind": "email",
         "value": "embrues@mid.ru"
       },
       {
+        "kind": "email",
+        "value": "info@rusiaspain.comwww.rusiaspain.com"
+      },
+      {
         "kind": "fax",
         "value": "915629712"
       },
       {
-        "kind": "email",
-        "value": "consm@.arrakis.eswww.rusmad.com"
-      },
-      {
-        "kind": "email",
-        "value": "info@rusiaspain.comwww.rusiaspain.com"
+        "kind": "phone",
+        "value": "915622264"
       }
     ],
     "extra": {
@@ -7897,16 +7897,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917668311"
-      },
-      {
         "kind": "email",
         "value": "nunap@nunciaturapostolica.es"
       },
       {
         "kind": "fax",
         "value": "917667085"
+      },
+      {
+        "kind": "phone",
+        "value": "917668311"
       }
     ],
     "extra": {
@@ -7943,8 +7943,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915635045"
+        "kind": "email",
+        "value": "konz.madrid@mfa.rs"
+      },
+      {
+        "kind": "email",
+        "value": "secretaria.madrid@mfa.rs"
       },
       {
         "kind": "email",
@@ -7955,12 +7959,8 @@
         "value": "915630440"
       },
       {
-        "kind": "email",
-        "value": "secretaria.madrid@mfa.rs"
-      },
-      {
-        "kind": "email",
-        "value": "konz.madrid@mfa.rs"
+        "kind": "phone",
+        "value": "915635045"
       }
     ],
     "extra": {
@@ -7997,20 +7997,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914363960"
+        "kind": "email",
+        "value": "madrid.cc@eda.admin.ch"
       },
       {
         "kind": "email",
-        "value": "madrid.cc@eda.admin.ch"
+        "value": "madrid.va@eda.admin.ch"
       },
       {
         "kind": "fax",
         "value": "914363985"
       },
       {
-        "kind": "email",
-        "value": "madrid.va@eda.admin.ch"
+        "kind": "phone",
+        "value": "914363960"
       }
     ],
     "extra": {
@@ -8047,8 +8047,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917489360"
+        "kind": "email",
+        "value": "consulvl@ya.com"
       },
       {
         "kind": "email",
@@ -8059,8 +8059,8 @@
         "value": "917590328"
       },
       {
-        "kind": "email",
-        "value": "consulvl@ya.com"
+        "kind": "phone",
+        "value": "917489360"
       }
     ],
     "extra": {
@@ -8097,16 +8097,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915579000"
-      },
-      {
         "kind": "email",
         "value": "info@madri.diplo.de"
       },
       {
         "kind": "fax",
         "value": "915579027"
+      },
+      {
+        "kind": "phone",
+        "value": "915579000"
       }
     ],
     "extra": {
@@ -8181,16 +8181,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914161000"
-      },
-      {
         "kind": "email",
         "value": "esemb@mofa.gov.sa"
       },
       {
         "kind": "fax",
         "value": "913021212"
+      },
+      {
+        "kind": "phone",
+        "value": "914161000"
       }
     ],
     "extra": {
@@ -8227,16 +8227,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915629705"
-      },
-      {
         "kind": "email",
         "value": "secretaria@emb-argelia.es"
       },
       {
         "kind": "fax",
         "value": "915629877"
+      },
+      {
+        "kind": "phone",
+        "value": "915629705"
       }
     ],
     "extra": {
@@ -8273,8 +8273,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917710500"
+        "kind": "email",
+        "value": "agredef.esp.argentina@hotmail.com"
       },
       {
         "kind": "email",
@@ -8285,8 +8285,8 @@
         "value": "917710526"
       },
       {
-        "kind": "email",
-        "value": "agredef.esp.argentina@hotmail.com"
+        "kind": "phone",
+        "value": "917710500"
       }
     ],
     "extra": {
@@ -8323,12 +8323,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913536600"
-      },
-      {
         "kind": "fax",
         "value": "913536692"
+      },
+      {
+        "kind": "phone",
+        "value": "913536600"
       }
     ],
     "extra": {
@@ -8369,16 +8369,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917596010"
-      },
-      {
         "kind": "email",
         "value": "madrid@mission.mfa.gov.az"
       },
       {
         "kind": "fax",
         "value": "917597056"
+      },
+      {
+        "kind": "phone",
+        "value": "917596010"
       }
     ],
     "extra": {
@@ -8415,16 +8415,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915776300"
-      },
-      {
         "kind": "email",
         "value": "madrid@diplobel.fed.be"
       },
       {
         "kind": "fax",
         "value": "914318166"
+      },
+      {
+        "kind": "phone",
+        "value": "915776300"
       }
     ],
     "extra": {
@@ -8465,16 +8465,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "442074990031"
-      },
-      {
         "kind": "email",
         "value": "bohico@govbw.com"
       },
       {
         "kind": "fax",
         "value": "442074958595"
+      },
+      {
+        "kind": "phone",
+        "value": "442074990031"
       }
     ],
     "extra": {
@@ -8511,36 +8511,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917004650"
-      },
-      {
-        "kind": "email",
-        "value": "brasemb.madrid@itamaraty.gov.br"
-      },
-      {
-        "kind": "fax",
-        "value": "917004660"
-      },
-      {
-        "kind": "email",
-        "value": "ministro.madrid@itamaraty.gov.br"
-      },
-      {
-        "kind": "email",
-        "value": "protocolo.madrid@itamaraty.gov.br"
-      },
-      {
         "kind": "email",
         "value": "adm.madrid@itamaraty.gov.br"
       },
       {
         "kind": "email",
-        "value": "secom.madrid@itamaraty.gov.br"
-      },
-      {
-        "kind": "email",
-        "value": "economico.madrid@itamaraty.gov.br"
+        "value": "brasemb.madrid@itamaraty.gov.br"
       },
       {
         "kind": "email",
@@ -8548,11 +8524,35 @@
       },
       {
         "kind": "email",
-        "value": "prensa.madrid@itamaraty.gov.br"
+        "value": "economico.madrid@itamaraty.gov.br"
+      },
+      {
+        "kind": "email",
+        "value": "ministro.madrid@itamaraty.gov.br"
       },
       {
         "kind": "email",
         "value": "politico.madrid@itamaraty.gov.br"
+      },
+      {
+        "kind": "email",
+        "value": "prensa.madrid@itamaraty.gov.br"
+      },
+      {
+        "kind": "email",
+        "value": "protocolo.madrid@itamaraty.gov.br"
+      },
+      {
+        "kind": "email",
+        "value": "secom.madrid@itamaraty.gov.br"
+      },
+      {
+        "kind": "fax",
+        "value": "917004660"
+      },
+      {
+        "kind": "phone",
+        "value": "917004650"
       }
     ],
     "extra": {
@@ -8589,20 +8589,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913455761"
+        "kind": "email",
+        "value": "embassy.madrid@mfa.bg"
       },
       {
         "kind": "email",
-        "value": "embassy.madrid@mfa.bg"
+        "value": "seccion.consular.madrid@mfa.bg"
       },
       {
         "kind": "fax",
         "value": "913591201"
       },
       {
-        "kind": "email",
-        "value": "seccion.consular.madrid@mfa.bg"
+        "kind": "phone",
+        "value": "913455761"
       }
     ],
     "extra": {
@@ -8639,8 +8639,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915783114"
+        "kind": "email",
+        "value": "madridconsulate@mfa.gov.cy"
       },
       {
         "kind": "email",
@@ -8651,8 +8651,8 @@
         "value": "915782189"
       },
       {
-        "kind": "email",
-        "value": "madridconsulate@mfa.gov.cy"
+        "kind": "phone",
+        "value": "915783114"
       }
     ],
     "extra": {
@@ -8689,12 +8689,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917004770"
-      },
-      {
         "kind": "fax",
         "value": "913103869"
+      },
+      {
+        "kind": "phone",
+        "value": "917004770"
       }
     ],
     "extra": {
@@ -8731,16 +8731,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "910867959"
-      },
-      {
         "kind": "email",
         "value": "madridmissionrdc@gmail.com"
       },
       {
         "kind": "fax",
         "value": "913231575"
+      },
+      {
+        "kind": "phone",
+        "value": "910867959"
       }
     ],
     "extra": {
@@ -8777,8 +8777,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914290155"
+        "kind": "email",
+        "value": "consuladogeo@mfa.gov.ge"
       },
       {
         "kind": "email",
@@ -8789,8 +8789,8 @@
         "value": "914296883"
       },
       {
-        "kind": "email",
-        "value": "consuladogeo@mfa.gov.ge"
+        "kind": "phone",
+        "value": "914290155"
       }
     ],
     "extra": {
@@ -8827,16 +8827,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914116893"
+        "kind": "email",
+        "value": "sloembassy.madrid@gov.si"
       },
       {
         "kind": "fax",
         "value": "915646057"
       },
       {
-        "kind": "email",
-        "value": "sloembassy.madrid@gov.si"
+        "kind": "phone",
+        "value": "914116893"
       }
     ],
     "extra": {
@@ -8873,16 +8873,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917823830"
-      },
-      {
         "kind": "email",
         "value": "madrid.pe@dfa.gov.ph"
       },
       {
-        "kind": "fax",
-        "value": "914116606"
+        "kind": "email",
+        "value": "madridpe@terra.es"
       },
       {
         "kind": "email",
@@ -8897,8 +8893,12 @@
         "value": "polomadrid2020@gmail.com"
       },
       {
-        "kind": "email",
-        "value": "madridpe@terra.es"
+        "kind": "fax",
+        "value": "914116606"
+      },
+      {
+        "kind": "phone",
+        "value": "917823830"
       }
     ],
     "extra": {
@@ -8935,8 +8935,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913196172"
+        "kind": "email",
+        "value": "consular.mad@gov.fi"
       },
       {
         "kind": "email",
@@ -8947,8 +8947,8 @@
         "value": "913083901"
       },
       {
-        "kind": "email",
-        "value": "consular.mad@gov.fi"
+        "kind": "phone",
+        "value": "913196172"
       }
     ],
     "extra": {
@@ -8985,18 +8985,6 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915644699"
-      },
-      {
-        "kind": "email",
-        "value": "gremb.mad@mfa.gr"
-      },
-      {
-        "kind": "fax",
-        "value": "915644668"
-      },
-      {
         "kind": "email",
         "value": "defattache.embagrec@gmail.com"
       },
@@ -9006,15 +8994,27 @@
       },
       {
         "kind": "email",
-        "value": "pdo.mad@mfa.gr"
-      },
-      {
-        "kind": "email",
         "value": "grcon.mad@mfa.gr"
       },
       {
         "kind": "email",
+        "value": "gremb.mad@mfa.gr"
+      },
+      {
+        "kind": "email",
         "value": "grinfo.mad@mfa.gr"
+      },
+      {
+        "kind": "email",
+        "value": "pdo.mad@mfa.gr"
+      },
+      {
+        "kind": "fax",
+        "value": "915644668"
+      },
+      {
+        "kind": "phone",
+        "value": "915644699"
       }
     ],
     "extra": {
@@ -9051,8 +9051,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913595150"
+        "kind": "email",
+        "value": "consulado@embahondduras.es"
       },
       {
         "kind": "email",
@@ -9063,8 +9063,8 @@
         "value": "913459210"
       },
       {
-        "kind": "email",
-        "value": "consulado@embahondduras.es"
+        "kind": "phone",
+        "value": "913595150"
       }
     ],
     "extra": {
@@ -9105,16 +9105,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913450112"
-      },
-      {
         "kind": "email",
         "value": "iranemb.mad@mfa.gov.ir"
-      },
-      {
-        "kind": "fax",
-        "value": "913451190"
       },
       {
         "kind": "email",
@@ -9123,6 +9115,14 @@
       {
         "kind": "email",
         "value": "mad.media@mfa.gov.ir"
+      },
+      {
+        "kind": "fax",
+        "value": "913451190"
+      },
+      {
+        "kind": "phone",
+        "value": "913450112"
       }
     ],
     "extra": {
@@ -9159,16 +9159,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917829500"
-      },
-      {
         "kind": "email",
         "value": "info@madrid.mfa.gov.il"
       },
       {
         "kind": "fax",
         "value": "917829555"
+      },
+      {
+        "kind": "phone",
+        "value": "917829500"
       }
     ],
     "extra": {
@@ -9205,16 +9205,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914233300"
-      },
-      {
         "kind": "email",
         "value": "segreamb.ambmadrid@esteri.it"
       },
       {
         "kind": "fax",
         "value": "915757776"
+      },
+      {
+        "kind": "phone",
+        "value": "914233300"
       }
     ],
     "extra": {
@@ -9251,16 +9251,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913191100"
-      },
-      {
         "kind": "email",
         "value": "jordania@telefonica.net"
       },
       {
         "kind": "fax",
         "value": "913082536"
+      },
+      {
+        "kind": "phone",
+        "value": "913191100"
       }
     ],
     "extra": {
@@ -9301,24 +9301,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917824960"
-      },
-      {
-        "kind": "email",
-        "value": "madrid@mne.pt"
-      },
-      {
-        "kind": "fax",
-        "value": "917824972"
-      },
-      {
-        "kind": "email",
-        "value": "sconsular.madrid@mne.pt"
-      },
-      {
         "kind": "email",
         "value": "adidodef.madrid@emgfa.pt"
+      },
+      {
+        "kind": "email",
+        "value": "aicep.madrid@portugalglobal.pt"
       },
       {
         "kind": "email",
@@ -9326,7 +9314,19 @@
       },
       {
         "kind": "email",
-        "value": "aicep.madrid@portugalglobal.pt"
+        "value": "madrid@mne.pt"
+      },
+      {
+        "kind": "email",
+        "value": "sconsular.madrid@mne.pt"
+      },
+      {
+        "kind": "fax",
+        "value": "917824972"
+      },
+      {
+        "kind": "phone",
+        "value": "917824960"
       }
     ],
     "extra": {
@@ -9367,16 +9367,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913599960"
-      },
-      {
         "kind": "email",
         "value": "madrid@mae.ro"
       },
       {
         "kind": "fax",
         "value": "913452917"
+      },
+      {
+        "kind": "phone",
+        "value": "913599960"
       }
     ],
     "extra": {
@@ -9413,20 +9413,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917022000"
+        "kind": "email",
+        "value": "ambassaden.madrid@gov.se"
       },
       {
         "kind": "email",
-        "value": "ambassaden.madrid@gov.se"
+        "value": "spanien@swedishtrade.se"
       },
       {
         "kind": "fax",
         "value": "917022040"
       },
       {
-        "kind": "email",
-        "value": "spanien@swedishtrade.se"
+        "kind": "phone",
+        "value": "917022000"
       }
     ],
     "extra": {
@@ -9463,24 +9463,24 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915630190"
-      },
-      {
         "kind": "email",
         "value": "contacto@thaiembmadrid.es"
       },
       {
-        "kind": "fax",
-        "value": "915638090"
+        "kind": "email",
+        "value": "navymadrid@hotmail.com"
       },
       {
         "kind": "email",
         "value": "thaicom@codenif.com"
       },
       {
-        "kind": "email",
-        "value": "navymadrid@hotmail.com"
+        "kind": "fax",
+        "value": "915638090"
+      },
+      {
+        "kind": "phone",
+        "value": "915630190"
       }
     ],
     "extra": {
@@ -9521,12 +9521,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913101639"
-      },
-      {
         "kind": "fax",
         "value": "913103123"
+      },
+      {
+        "kind": "phone",
+        "value": "913101639"
       }
     ],
     "extra": {
@@ -9563,16 +9563,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914361792"
-      },
-      {
         "kind": "email",
         "value": "info@gambiaembassy.es"
       },
       {
         "kind": "fax",
         "value": "914087529"
+      },
+      {
+        "kind": "phone",
+        "value": "914361792"
       }
     ],
     "extra": {
@@ -9613,20 +9613,20 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915102867"
+        "kind": "email",
+        "value": "embavietnam.madrid@yahoo.es"
       },
       {
         "kind": "email",
-        "value": "embavietnam.madrid@yahoo.es"
+        "value": "vnemb.es@mofa.gov.vn"
       },
       {
         "kind": "fax",
         "value": "914157067"
       },
       {
-        "kind": "email",
-        "value": "vnemb.es@mofa.gov.vn"
+        "kind": "phone",
+        "value": "915102867"
       }
     ],
     "extra": {
@@ -9663,16 +9663,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915670390"
-      },
-      {
         "kind": "email",
         "value": "administration@ghanaembassyspain.com"
       },
       {
         "kind": "fax",
         "value": "915670393"
+      },
+      {
+        "kind": "phone",
+        "value": "915670390"
       }
     ],
     "extra": {
@@ -9709,16 +9709,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "91575700607"
-      },
-      {
         "kind": "email",
         "value": "ambarim@embajadamauritania.es"
       },
       {
         "kind": "fax",
         "value": "914359531"
+      },
+      {
+        "kind": "phone",
+        "value": "91575700607"
       }
     ],
     "extra": {
@@ -9788,16 +9788,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913103904"
-      },
-      {
         "kind": "email",
         "value": "embajada.madrid@mfa.gov.tr"
       },
       {
         "kind": "fax",
         "value": "913086602"
+      },
+      {
+        "kind": "phone",
+        "value": "913103904"
       }
     ],
     "extra": {
@@ -9834,16 +9834,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914315395"
-      },
-      {
         "kind": "email",
         "value": "embajada@embajadadominicana.es"
       },
       {
         "kind": "fax",
         "value": "914358139"
+      },
+      {
+        "kind": "phone",
+        "value": "914315395"
       }
     ],
     "extra": {
@@ -9884,16 +9884,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914352928"
-      },
-      {
         "kind": "email",
         "value": "embajada@guineamadrid.es"
       },
       {
         "kind": "fax",
         "value": "914311004"
+      },
+      {
+        "kind": "phone",
+        "value": "914352928"
       }
     ],
     "extra": {
@@ -9930,16 +9930,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914356166"
-      },
-      {
         "kind": "email",
         "value": "gabembajador@embajadadeangola.com"
       },
       {
         "kind": "fax",
         "value": "915779010"
+      },
+      {
+        "kind": "phone",
+        "value": "914356166"
       }
     ],
     "extra": {
@@ -9976,16 +9976,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917590303"
-      },
-      {
         "kind": "email",
         "value": "info@embajadadeirak.es"
       },
       {
         "kind": "fax",
         "value": "917218682"
+      },
+      {
+        "kind": "phone",
+        "value": "917590303"
       }
     ],
     "extra": {
@@ -10022,16 +10022,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917817212"
-      },
-      {
         "kind": "email",
         "value": "info@embajadademali.es"
       },
       {
         "kind": "fax",
         "value": "914351516"
+      },
+      {
+        "kind": "phone",
+        "value": "917817212"
       }
     ],
     "extra": {
@@ -10106,16 +10106,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914314242"
-      },
-      {
         "kind": "email",
         "value": "lepru@embajadaperu.es"
       },
       {
         "kind": "fax",
         "value": "915776861"
+      },
+      {
+        "kind": "phone",
+        "value": "914314242"
       }
     ],
     "extra": {
@@ -10152,16 +10152,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914473508"
-      },
-      {
         "kind": "email",
         "value": "madrid@embajadadetunez.es"
       },
       {
         "kind": "fax",
         "value": "915938416"
+      },
+      {
+        "kind": "phone",
+        "value": "914473508"
       }
     ],
     "extra": {
@@ -10198,16 +10198,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915631090"
-      },
-      {
         "kind": "email",
         "value": "secretaria@embajada-marruecos.es"
       },
       {
         "kind": "fax",
         "value": "915617887"
+      },
+      {
+        "kind": "phone",
+        "value": "915631090"
       }
     ],
     "extra": {
@@ -10244,16 +10244,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915635753"
-      },
-      {
         "kind": "email",
         "value": "secretaria@embajadadelibia.com"
       },
       {
         "kind": "fax",
         "value": "915643986"
+      },
+      {
+        "kind": "phone",
+        "value": "915635753"
       }
     ],
     "extra": {
@@ -10290,16 +10290,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914572456"
-      },
-      {
         "kind": "email",
         "value": "secretaria@embajadadelparaguay.com"
       },
       {
         "kind": "fax",
         "value": "914570924"
+      },
+      {
+        "kind": "phone",
+        "value": "914572456"
       }
     ],
     "extra": {
@@ -10336,12 +10336,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913736605"
-      },
-      {
-        "kind": "fax",
-        "value": "913769572"
+        "kind": "email",
+        "value": "embajada.madrid@msz.gov.pl"
       },
       {
         "kind": "email",
@@ -10352,8 +10348,12 @@
         "value": "madryt.amb.wk@msz.gov.pl"
       },
       {
-        "kind": "email",
-        "value": "embajada.madrid@msz.gov.pl"
+        "kind": "fax",
+        "value": "913769572"
+      },
+      {
+        "kind": "phone",
+        "value": "913736605"
       }
     ],
     "extra": {
@@ -10390,16 +10390,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "986120610"
-      },
-      {
         "kind": "email",
         "value": "efca@efca.europa.eu"
       },
       {
         "kind": "fax",
         "value": "986125239"
+      },
+      {
+        "kind": "phone",
+        "value": "986120610"
       }
     ],
     "extra": {
@@ -10502,12 +10502,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914311340"
-      },
-      {
         "kind": "fax",
         "value": "914311383"
+      },
+      {
+        "kind": "phone",
+        "value": "914311340"
       }
     ],
     "extra": {
@@ -10582,16 +10582,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "933201800"
-      },
-      {
         "kind": "email",
         "value": "protocol-desk@f4e.europa.eu"
       },
       {
         "kind": "fax",
         "value": "934897537"
+      },
+      {
+        "kind": "phone",
+        "value": "933201800"
       }
     ],
     "extra": {
@@ -10694,16 +10694,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "916786000"
-      },
-      {
         "kind": "email",
         "value": "info@satcen.europa.eu"
       },
       {
         "kind": "fax",
         "value": "916786006"
+      },
+      {
+        "kind": "phone",
+        "value": "916786000"
       }
     ],
     "extra": {
@@ -10740,12 +10740,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "919911673"
-      },
-      {
         "kind": "email",
         "value": "europa@visitcentroamerica.com"
+      },
+      {
+        "kind": "phone",
+        "value": "919911673"
       }
     ],
     "extra": {
@@ -10782,16 +10782,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915903638"
-      },
-      {
         "kind": "email",
         "value": "iooc@internationaloliveoil.org"
       },
       {
         "kind": "fax",
         "value": "915631263"
+      },
+      {
+        "kind": "phone",
+        "value": "915903638"
       }
     ],
     "extra": {
@@ -11008,12 +11008,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "954488344"
-      },
-      {
         "kind": "fax",
         "value": "954488300"
+      },
+      {
+        "kind": "phone",
+        "value": "954488344"
       }
     ],
     "extra": {
@@ -11050,12 +11050,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913690284"
-      },
-      {
         "kind": "email",
         "value": "oij@oij.org"
+      },
+      {
+        "kind": "phone",
+        "value": "913690284"
       }
     ],
     "extra": {
@@ -11092,16 +11092,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915753624"
-      },
-      {
         "kind": "email",
         "value": "secretaria.general@comjib.org"
       },
       {
         "kind": "fax",
         "value": "914351972"
+      },
+      {
+        "kind": "phone",
+        "value": "915753624"
       }
     ],
     "extra": {
@@ -11341,16 +11341,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913507516"
-      },
-      {
         "kind": "email",
         "value": "madrid.mission@las.int"
       },
       {
         "kind": "fax",
         "value": "913507910"
+      },
+      {
+        "kind": "phone",
+        "value": "913507516"
       }
     ],
     "extra": {
@@ -11519,12 +11519,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914238000"
-      },
-      {
         "kind": "fax",
         "value": "915772923"
+      },
+      {
+        "kind": "phone",
+        "value": "914238000"
       }
     ],
     "extra": {
@@ -11830,12 +11830,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913474140"
-      },
-      {
         "kind": "email",
         "value": "fao-es@fao.org"
+      },
+      {
+        "kind": "phone",
+        "value": "913474140"
       }
     ],
     "extra": {
@@ -11976,12 +11976,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914315711914238000"
-      },
-      {
         "kind": "fax",
         "value": "915772923"
+      },
+      {
+        "kind": "phone",
+        "value": "914315711914238000"
       }
     ],
     "extra": {
@@ -12022,16 +12022,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "442073707123"
-      },
-      {
         "kind": "email",
         "value": "hcslu@govt.lc"
       },
       {
         "kind": "fax",
         "value": "442073701905"
+      },
+      {
+        "kind": "phone",
+        "value": "442073707123"
       }
     ],
     "extra": {
@@ -12134,16 +12134,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915611747"
-      },
-      {
         "kind": "email",
         "value": "sec.general@oiss.org"
       },
       {
         "kind": "fax",
         "value": "915645633"
+      },
+      {
+        "kind": "phone",
+        "value": "915611747"
       }
     ],
     "extra": {
@@ -12255,12 +12255,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "965139100"
-      },
-      {
         "kind": "fax",
         "value": "965131344"
+      },
+      {
+        "kind": "phone",
+        "value": "965139100"
       }
     ],
     "extra": {
@@ -12297,16 +12297,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914175594"
-      },
-      {
         "kind": "email",
         "value": "info@iosco.org"
       },
       {
         "kind": "fax",
         "value": "915559368"
+      },
+      {
+        "kind": "phone",
+        "value": "914175594"
       }
     ],
     "extra": {
@@ -12376,16 +12376,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "944794360"
-      },
-      {
         "kind": "email",
         "value": "information@osha.europa.eu"
       },
       {
         "kind": "fax",
         "value": "944794383"
+      },
+      {
+        "kind": "phone",
+        "value": "944794360"
       }
     ],
     "extra": {
@@ -12422,16 +12422,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "914165600"
-      },
-      {
         "kind": "email",
         "value": "info@iccat.int"
       },
       {
         "kind": "fax",
         "value": "914152612"
+      },
+      {
+        "kind": "phone",
+        "value": "914165600"
       }
     ],
     "extra": {
@@ -12506,12 +12506,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "918131100"
-      },
-      {
         "kind": "fax",
         "value": "918131212"
+      },
+      {
+        "kind": "phone",
+        "value": "918131100"
       }
     ],
     "extra": {
@@ -12548,16 +12548,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915901980"
-      },
-      {
         "kind": "email",
         "value": "info@segib.org"
       },
       {
         "kind": "fax",
         "value": "915901983"
+      },
+      {
+        "kind": "phone",
+        "value": "915901980"
       }
     ],
     "extra": {
@@ -12632,16 +12632,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915678156"
-      },
-      {
         "kind": "email",
         "value": "info@unwto.org"
       },
       {
         "kind": "fax",
         "value": "911311702"
+      },
+      {
+        "kind": "phone",
+        "value": "915678156"
       }
     ],
     "extra": {
@@ -12678,16 +12678,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915944382"
-      },
-      {
         "kind": "email",
         "value": "secretaria.general@oei.org.es"
       },
       {
         "kind": "fax",
         "value": "915943286"
+      },
+      {
+        "kind": "phone",
+        "value": "915944382"
       }
     ],
     "extra": {
@@ -12758,11 +12758,11 @@
     "contacts": [
       {
         "kind": "email",
-        "value": "spain@onuhabitat.org"
+        "value": "info@cityresilience.org"
       },
       {
         "kind": "email",
-        "value": "info@cityresilience.org"
+        "value": "spain@onuhabitat.org"
       },
       {
         "kind": "phone",
@@ -12836,10 +12836,6 @@
     ],
     "contacts": [
       {
-        "kind": "fax",
-        "value": "915781732"
-      },
-      {
         "kind": "email",
         "value": "consuladoegiptomadrid@gmail.com"
       },
@@ -12849,23 +12845,27 @@
       },
       {
         "kind": "email",
-        "value": "madrid@ecs.gov.eg"
+        "value": "edamadrid@mod.gov.eg"
       },
       {
         "kind": "email",
-        "value": "edamadrid@mod.gov.eg"
+        "value": "embajadaegiptomadrid@gmail.com"
+      },
+      {
+        "kind": "email",
+        "value": "madrid@ecs.gov.eg"
       },
       {
         "kind": "email",
         "value": "secretaria@institutoegipcio.com"
       },
       {
-        "kind": "phone",
-        "value": "915776308"
+        "kind": "fax",
+        "value": "915781732"
       },
       {
-        "kind": "email",
-        "value": "embajadaegiptomadrid@gmail.com"
+        "kind": "phone",
+        "value": "915776308"
       }
     ],
     "extra": {
@@ -13118,12 +13118,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "+34-91-369-13-62"
-      },
-      {
         "kind": "email",
         "value": "mailto:embassy.spain@mfa.gov.lv"
+      },
+      {
+        "kind": "phone",
+        "value": "+34-91-369-13-62"
       }
     ],
     "extra": {
@@ -13199,12 +13199,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "+34917022116"
-      },
-      {
         "kind": "email",
         "value": "mailto:amb.es@urm.lt"
+      },
+      {
+        "kind": "phone",
+        "value": "+34917022116"
       }
     ],
     "extra": {
@@ -13481,8 +13481,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "91562721516"
+        "kind": "email",
+        "value": "agreaeroesp@ccffaa.mil.ec"
+      },
+      {
+        "kind": "email",
+        "value": "agregaduriaft-espana@ejercito.mil.ec"
+      },
+      {
+        "kind": "email",
+        "value": "agregapoliespa@gmail.com"
       },
       {
         "kind": "email",
@@ -13493,16 +13501,8 @@
         "value": "917450244"
       },
       {
-        "kind": "email",
-        "value": "agregaduriaft-espana@ejercito.mil.ec"
-      },
-      {
-        "kind": "email",
-        "value": "agreaeroesp@ccffaa.mil.ec"
-      },
-      {
-        "kind": "email",
-        "value": "agregapoliespa@gmail.com"
+        "kind": "phone",
+        "value": "91562721516"
       }
     ],
     "extra": {
@@ -13539,16 +13539,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917451003"
-      },
-      {
         "kind": "email",
         "value": "info@embajadasenegal.net"
       },
       {
         "kind": "fax",
         "value": "917451148"
+      },
+      {
+        "kind": "phone",
+        "value": "917451003"
       }
     ],
     "extra": {
@@ -13585,8 +13585,8 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "913458995"
+        "kind": "email",
+        "value": "comercio@embajada-pakistan.org"
       },
       {
         "kind": "email",
@@ -13597,8 +13597,8 @@
         "value": "913458158"
       },
       {
-        "kind": "email",
-        "value": "comercio@embajada-pakistan.org"
+        "kind": "phone",
+        "value": "913458995"
       }
     ],
     "extra": {
@@ -13635,16 +13635,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915194242"
-      },
-      {
         "kind": "email",
         "value": "chinaemb_es@mfa.gov.cn"
       },
       {
         "kind": "fax",
         "value": "915192035"
+      },
+      {
+        "kind": "phone",
+        "value": "915194242"
       }
     ],
     "extra": {
@@ -13681,16 +13681,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "915776708"
-      },
-      {
         "kind": "email",
         "value": "proexport-3@telefonica.net"
       },
       {
         "kind": "fax",
         "value": "915776736"
+      },
+      {
+        "kind": "phone",
+        "value": "915776708"
       }
     ],
     "extra": {
@@ -13727,16 +13727,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917607846"
-      },
-      {
         "kind": "email",
         "value": "embasalva@embasalva.com"
       },
       {
         "kind": "fax",
         "value": "915630584"
+      },
+      {
+        "kind": "phone",
+        "value": "917607846"
       }
     ],
     "extra": {
@@ -13773,16 +13773,16 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "917580475"
-      },
-      {
         "kind": "email",
         "value": "uruespana@mrree.gub.uy"
       },
       {
         "kind": "fax",
         "value": "915478362"
+      },
+      {
+        "kind": "phone",
+        "value": "917580475"
       }
     ],
     "extra": {
