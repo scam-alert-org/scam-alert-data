@@ -10582,16 +10582,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "933201800"
+      },
+      {
         "kind": "email",
         "value": "protocol-desk@f4e.europa.eu"
       },
       {
         "kind": "fax",
         "value": "934897537"
-      },
-      {
-        "kind": "phone",
-        "value": "933201800"
       }
     ],
     "extra": {
@@ -10694,16 +10694,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "916786000"
+      },
+      {
         "kind": "email",
         "value": "info@satcen.europa.eu"
       },
       {
         "kind": "fax",
         "value": "916786006"
-      },
-      {
-        "kind": "phone",
-        "value": "916786000"
       }
     ],
     "extra": {
@@ -10740,12 +10740,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "europa@visitcentroamerica.com"
-      },
-      {
         "kind": "phone",
         "value": "919911673"
+      },
+      {
+        "kind": "email",
+        "value": "europa@visitcentroamerica.com"
       }
     ],
     "extra": {
@@ -10782,16 +10782,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "915903638"
+      },
+      {
         "kind": "email",
         "value": "iooc@internationaloliveoil.org"
       },
       {
         "kind": "fax",
         "value": "915631263"
-      },
-      {
-        "kind": "phone",
-        "value": "915903638"
       }
     ],
     "extra": {
@@ -11008,12 +11008,12 @@
     ],
     "contacts": [
       {
-        "kind": "fax",
-        "value": "954488300"
-      },
-      {
         "kind": "phone",
         "value": "954488344"
+      },
+      {
+        "kind": "fax",
+        "value": "954488300"
       }
     ],
     "extra": {
@@ -11050,12 +11050,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "oij@oij.org"
-      },
-      {
         "kind": "phone",
         "value": "913690284"
+      },
+      {
+        "kind": "email",
+        "value": "oij@oij.org"
       }
     ],
     "extra": {
@@ -11092,16 +11092,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "915753624"
+      },
+      {
         "kind": "email",
         "value": "secretaria.general@comjib.org"
       },
       {
         "kind": "fax",
         "value": "914351972"
-      },
-      {
-        "kind": "phone",
-        "value": "915753624"
       }
     ],
     "extra": {
@@ -11341,16 +11341,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "913507516"
+      },
+      {
         "kind": "email",
         "value": "madrid.mission@las.int"
       },
       {
         "kind": "fax",
         "value": "913507910"
-      },
-      {
-        "kind": "phone",
-        "value": "913507516"
       }
     ],
     "extra": {
@@ -11519,12 +11519,12 @@
     ],
     "contacts": [
       {
-        "kind": "fax",
-        "value": "915772923"
-      },
-      {
         "kind": "phone",
         "value": "914238000"
+      },
+      {
+        "kind": "fax",
+        "value": "915772923"
       }
     ],
     "extra": {
@@ -11830,12 +11830,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "fao-es@fao.org"
-      },
-      {
         "kind": "phone",
         "value": "913474140"
+      },
+      {
+        "kind": "email",
+        "value": "fao-es@fao.org"
       }
     ],
     "extra": {
@@ -11976,12 +11976,12 @@
     ],
     "contacts": [
       {
-        "kind": "fax",
-        "value": "915772923"
-      },
-      {
         "kind": "phone",
         "value": "914315711914238000"
+      },
+      {
+        "kind": "fax",
+        "value": "915772923"
       }
     ],
     "extra": {
@@ -12022,16 +12022,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "442073707123"
+      },
+      {
         "kind": "email",
         "value": "hcslu@govt.lc"
       },
       {
         "kind": "fax",
         "value": "442073701905"
-      },
-      {
-        "kind": "phone",
-        "value": "442073707123"
       }
     ],
     "extra": {
@@ -12134,16 +12134,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "915611747"
+      },
+      {
         "kind": "email",
         "value": "sec.general@oiss.org"
       },
       {
         "kind": "fax",
         "value": "915645633"
-      },
-      {
-        "kind": "phone",
-        "value": "915611747"
       }
     ],
     "extra": {
@@ -12255,12 +12255,12 @@
     ],
     "contacts": [
       {
-        "kind": "fax",
-        "value": "965131344"
-      },
-      {
         "kind": "phone",
         "value": "965139100"
+      },
+      {
+        "kind": "fax",
+        "value": "965131344"
       }
     ],
     "extra": {
@@ -12297,16 +12297,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "914175594"
+      },
+      {
         "kind": "email",
         "value": "info@iosco.org"
       },
       {
         "kind": "fax",
         "value": "915559368"
-      },
-      {
-        "kind": "phone",
-        "value": "914175594"
       }
     ],
     "extra": {
@@ -12376,16 +12376,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "944794360"
+      },
+      {
         "kind": "email",
         "value": "information@osha.europa.eu"
       },
       {
         "kind": "fax",
         "value": "944794383"
-      },
-      {
-        "kind": "phone",
-        "value": "944794360"
       }
     ],
     "extra": {
@@ -12422,16 +12422,16 @@
     ],
     "contacts": [
       {
+        "kind": "phone",
+        "value": "914165600"
+      },
+      {
         "kind": "email",
         "value": "info@iccat.int"
       },
       {
         "kind": "fax",
         "value": "914152612"
-      },
-      {
-        "kind": "phone",
-        "value": "914165600"
       }
     ],
     "extra": {
