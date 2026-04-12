@@ -1,63 +1,61 @@
 {
-  "generated_at": "2026-04-11T12:14:15.903Z",
-  "run_date": "2026-04-11",
+  "generated_at": "2026-04-12T20:51:43.859Z",
+  "run_date": "2026-04-12",
   "datasets": {
     "embajadas": {
       "kind": "embassy",
-      "canonical_hash": "ceba2c5729e9393fb0fe7beace104f88653fc9a3a2ad780721da3a80445d4b0f",
-      "source_rows": 70,
+      "canonical_hash": "33f5e87a81e3acc4a767851d10f72171231072ce0156436614d9fd0f875bf9b7",
+      "source_rows": 340,
       "changed": true,
       "formats": {
         "json": {
-          "rows": 70,
-          "size_bytes": 47164,
-          "sha256": "b172d05357916a6eab2c8fe3a3cb18551e22c85b71b51d539c0624721d1dfabc",
+          "rows": 340,
+          "size_bytes": 545027,
+          "sha256": "52ae5f641922c03b419a0bee1de85bb5d3b9ca623999013ba4b5e35932423c87",
           "valid": true,
           "errors": [],
-          "warnings": [
-            "[json] 50/70 registros sin \"address\" (71.4%)"
-          ]
+          "warnings": []
         },
         "csv": {
-          "rows": 70,
-          "size_bytes": 23170,
-          "sha256": "c13545f5f1323dd2d2e6115cf034b7effde5e97a2912eed114df7c1e7bedc48d",
+          "rows": 340,
+          "size_bytes": 373823,
+          "sha256": "f7097948463982e24c46d3e7518456d56a0694f9f4bd129df276cedd251eb86e",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "xml": {
-          "rows": 70,
-          "size_bytes": 47402,
-          "sha256": "22e5bdd567e7c4c5ce133033f10dfb937806c38e86773a1b6959fe16d29e2554",
+          "rows": 340,
+          "size_bytes": 517070,
+          "sha256": "e2b92f9ab1098e66d35232f7f916a2ae427b02ee95163ded5a48b2e1b5c4807e",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "geojson": {
-          "rows": 67,
-          "size_bytes": 50325,
-          "sha256": "a3f41ede5dfc2c19fca753119f188b657d22d734fb2c767fee2a544d97073835",
+          "rows": 312,
+          "size_bytes": 502614,
+          "sha256": "7464cc843a8e8b8a39d481c5cfe9b598fd4196220e9ac8ac894b4b05c51b84fc",
           "valid": true,
           "errors": [],
           "warnings": [
-            "[geojson] 3 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML."
+            "[geojson] 28 registros sin coordenadas excluidos intencionalmente (8.2%). Datos completos disponibles en JSON/CSV/XML."
           ],
-          "excluded_no_geometry": 3,
-          "excluded_pct": "4.29%"
+          "excluded_no_geometry": 28,
+          "excluded_pct": "8.24%"
         },
         "kml": {
-          "rows": 70,
-          "size_bytes": 35673,
-          "sha256": "37f9684c722038da973465c0dbaea48c6d3c321a545d9d8e34d9ee3fc027d217",
+          "rows": 340,
+          "size_bytes": 202299,
+          "sha256": "6092d13ba72cd6741a6bd636e6eefc170740b9bcc540763e8aa69706ce315e5e",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "gml": {
-          "rows": 70,
-          "size_bytes": 64768,
-          "sha256": "6b8d276f57dbd359bc9abd58ae98c6e9d664a229a3e3e4982fb37b1ccbcbbd42",
+          "rows": 340,
+          "size_bytes": 353486,
+          "sha256": "47d7079e9fb9bd0f26a24e18857fd340270f14b9610e7adac4a8a96606c10f71",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -66,11 +64,10 @@
       "validation": {
         "passed": true,
         "error_count": 0,
-        "warning_count": 2,
+        "warning_count": 1,
         "errors": [],
         "warnings": [
-          "[json] 50/70 registros sin \"address\" (71.4%)",
-          "[geojson] 3 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML."
+          "[geojson] 28 registros sin coordenadas excluidos intencionalmente (8.2%). Datos completos disponibles en JSON/CSV/XML."
         ]
       }
     }
@@ -79,10 +76,10 @@
     "total_datasets": 1,
     "datasets_changed": 1,
     "datasets_skipped": 0,
-    "total_source_rows": 70,
-    "total_exported_rows": 70,
-    "total_geojson_excluded": 3,
-    "geojson_excluded_pct": "4.29%",
+    "total_source_rows": 340,
+    "total_exported_rows": 340,
+    "total_geojson_excluded": 28,
+    "geojson_excluded_pct": "8.24%",
     "all_valid": true
   }
 }

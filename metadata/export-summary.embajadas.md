@@ -1,20 +1,19 @@
-# Dataset Export — 2026-04-11
+# Dataset Export — 2026-04-12
 
-_Generado: 2026-04-11T12:14:15.903Z_
+_Generado: 2026-04-12T20:51:43.859Z_
 
-**Total:** 70 entidades · **GeoJSON excluidas:** 3 (4.29%) · **Datasets actualizados:** 1/1 · **Validación:** ✅ PASS
+**Total:** 340 entidades · **GeoJSON excluidas:** 28 (8.24%) · **Datasets actualizados:** 1/1 · **Validación:** ✅ PASS
 
 ## Resultados por dataset
 
 | Dataset | Fuente | JSON | CSV | XML | GeoJSON incl. | Excl. sin geo | KML | GML | Estado |
 |---|---|---|---|---|---|---|---|---|---|
-| **embajadas** | 70 | 70 | 70 | 70 | 67 | 3 (4.3%) | 70 | 70 | ✅ |
+| **embajadas** | 340 | 340 | 340 | 340 | 312 | 28 (8.2%) | 340 | 340 | ✅ |
 
 ## ⚠ Advertencias
 
 ### embajadas
-- ⚠️ `DEGRADATION_ADDRESS` [json] 50/70 registros sin "address" (71.4%)
-- ℹ️ `GEOJSON_EXCLUSION_OK` [geojson] 3 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML.
+- ℹ️ `GEOJSON_EXCLUSION_OK` [geojson] 28 registros sin coordenadas excluidos intencionalmente (8.2%). Datos completos disponibles en JSON/CSV/XML.
 
 ## Notas
 

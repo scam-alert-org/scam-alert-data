@@ -1,59 +1,61 @@
 {
-  "generated_at": "2026-04-11T12:14:17.696Z",
-  "run_date": "2026-04-11",
+  "generated_at": "2026-04-12T20:51:51.661Z",
+  "run_date": "2026-04-12",
   "datasets": {
     "hospitales": {
       "kind": "hospital",
-      "canonical_hash": "e189b12a90b09b0af937d7e0197fb68242030a8159ba6e74681e0323a9bfa01e",
-      "source_rows": 841,
+      "canonical_hash": "ec4eada423f05b36b222749054c4d9a027356883948ffa545c0a29bcfc0a2ece",
+      "source_rows": 2940,
       "changed": true,
       "formats": {
         "json": {
-          "rows": 841,
-          "size_bytes": 976873,
-          "sha256": "80e0405987904c8ee7d579cc7aacf289920c6418ec41a94773874c308b01a715",
+          "rows": 2940,
+          "size_bytes": 2582802,
+          "sha256": "9a5f9f52a8a3ddef016140063561fb2a76b67142370f2779bf90ab21c41a2222",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "csv": {
-          "rows": 841,
-          "size_bytes": 617361,
-          "sha256": "9fb976afe4284436e70c08025c58ac3dab6c5e13303d996f11f4e2a2ed8ee078",
+          "rows": 2940,
+          "size_bytes": 1636050,
+          "sha256": "26d4e0290a391e6108612391f91015b722c4d8ee199717f4ddb3616e4b3cfe26",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "xml": {
-          "rows": 841,
-          "size_bytes": 1082475,
-          "sha256": "ba9ff132cd73788c90354453311971b68d880773903c01cee86066699aa4675b",
+          "rows": 2940,
+          "size_bytes": 2760682,
+          "sha256": "272826e2ca71269ccfc2a368ef1e74b429ae82eb245e5a6da6c67e36624cc0a0",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "geojson": {
-          "rows": 841,
-          "size_bytes": 1019929,
-          "sha256": "5a2ef44a2ed9bd92086c26570bb9b09d4336f0985e22ac91617d87d04726d01e",
+          "rows": 840,
+          "size_bytes": 1018680,
+          "sha256": "eb16b0d006898fc4608697c0b8b73a1c4a941504554b340ab28f1fea7d8eaca4",
           "valid": true,
           "errors": [],
-          "warnings": [],
-          "excluded_no_geometry": 0,
-          "excluded_pct": "0.00%"
+          "warnings": [
+            "[geojson] 2100 registros sin coordenadas excluidos intencionalmente (71.4%). Datos completos disponibles en JSON/CSV/XML."
+          ],
+          "excluded_no_geometry": 2100,
+          "excluded_pct": "71.43%"
         },
         "kml": {
-          "rows": 841,
-          "size_bytes": 691930,
-          "sha256": "4e86695cf44b1d5628d1e8c114ea85465fe0db0c985d50a3c67b7ded1a4d2f80",
+          "rows": 2940,
+          "size_bytes": 1612908,
+          "sha256": "b3597d524d2671cdca74c62432282ed698bdbc03691e449ebefd5e87c4feccaa",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "gml": {
-          "rows": 841,
-          "size_bytes": 1064873,
-          "sha256": "e9a26f2f067f1a2559f2683d9dc3ac4da0ac0a1e80d75736322defd082e0de70",
+          "rows": 2940,
+          "size_bytes": 2187011,
+          "sha256": "0be32703312faa31e24523bfc8d187135f888d169df701c01ac044c72f11d5af",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -62,9 +64,11 @@
       "validation": {
         "passed": true,
         "error_count": 0,
-        "warning_count": 0,
+        "warning_count": 1,
         "errors": [],
-        "warnings": []
+        "warnings": [
+          "[geojson] 2100 registros sin coordenadas excluidos intencionalmente (71.4%). Datos completos disponibles en JSON/CSV/XML."
+        ]
       }
     }
   },
@@ -72,10 +76,10 @@
     "total_datasets": 1,
     "datasets_changed": 1,
     "datasets_skipped": 0,
-    "total_source_rows": 841,
-    "total_exported_rows": 841,
-    "total_geojson_excluded": 0,
-    "geojson_excluded_pct": "0.00%",
+    "total_source_rows": 2940,
+    "total_exported_rows": 2940,
+    "total_geojson_excluded": 2100,
+    "geojson_excluded_pct": "71.43%",
     "all_valid": true
   }
 }

@@ -1,20 +1,20 @@
-# Dataset Export — 2026-04-11
+# Dataset Export — 2026-04-12
 
-_Generado: 2026-04-11T12:14:18.106Z_
+_Generado: 2026-04-12T20:51:46.589Z_
 
-**Total:** 576 entidades · **GeoJSON excluidas:** 26 (4.51%) · **Datasets actualizados:** 1/1 · **Validación:** ✅ PASS
+**Total:** 605 entidades · **GeoJSON excluidas:** 26 (4.30%) · **Datasets actualizados:** 1/1 · **Validación:** ✅ PASS
 
 ## Resultados por dataset
 
 | Dataset | Fuente | JSON | CSV | XML | GeoJSON incl. | Excl. sin geo | KML | GML | Estado |
 |---|---|---|---|---|---|---|---|---|---|
-| **comisarias** | 576 | 576 | 576 | 576 | 550 | 26 (4.5%) | 576 | 576 | ✅ |
+| **comisarias** | 605 | 605 | 605 | 605 | 579 | 26 (4.3%) | 605 | 605 | ✅ |
 
 ## ⚠ Advertencias
 
 ### comisarias
-- ⚠️ `MISSING_REQUIRED_FIELD` [json] Campo obligatorio "province" ausente en 5/576 registros (0.9%)
-- ℹ️ `GEOJSON_EXCLUSION_OK` [geojson] 26 registros sin coordenadas excluidos intencionalmente (4.5%). Datos completos disponibles en JSON/CSV/XML.
+- ⚠️ `MISSING_REQUIRED_FIELD` [json] Campo obligatorio "province" ausente en 5/605 registros (0.8%)
+- ℹ️ `GEOJSON_EXCLUSION_OK` [geojson] 26 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML.
 
 ## Notas
 

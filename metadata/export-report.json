@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-04-11T12:14:18.106Z",
-  "run_date": "2026-04-11",
+  "generated_at": "2026-04-12T20:51:46.589Z",
+  "run_date": "2026-04-12",
   "datasets": {
     "comisarias": {
       "kind": "police_station",
-      "canonical_hash": "eebb9912d44756dec717fc54c7c2d099e950a07c65b8e4ca1dfb3577a9a060a3",
-      "source_rows": 576,
+      "canonical_hash": "b09abd50d69b5e706e6b88501dab3c6cfb95446a1c86b42f53ea864d684f7c3e",
+      "source_rows": 605,
       "changed": true,
       "formats": {
         "json": {
-          "rows": 576,
-          "size_bytes": 410919,
-          "sha256": "804d6eea931458944011be3a8ca07e3c67eab1e27be7a534294de8c02b55d5b7",
+          "rows": 605,
+          "size_bytes": 443303,
+          "sha256": "86f334a5b10f35ef53e286bc32c8cd5f9418aac68a9fd943c6f718ab0ad7997a",
           "valid": true,
           "errors": [],
           "warnings": [
-            "[json] Campo obligatorio \"province\" ausente en 5/576 registros (0.9%)"
+            "[json] Campo obligatorio \"province\" ausente en 5/605 registros (0.8%)"
           ]
         },
         "csv": {
-          "rows": 576,
-          "size_bytes": 186581,
-          "sha256": "547ef081f6ff062cb9e5ff7371f8370c6ef99b968bf4856a9e767889481cf610",
+          "rows": 605,
+          "size_bytes": 203383,
+          "sha256": "3f6746f0648a3748a895f22adf5d9baaf2b23e5bcf82c555b76255ca73cf818c",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "xml": {
-          "rows": 576,
-          "size_bytes": 394648,
-          "sha256": "57a0f28a4f16f9e3f2cef5ce1efa2fe8c0ca6f6c8020bd499baa94752656b0ae",
+          "rows": 605,
+          "size_bytes": 427722,
+          "sha256": "587f49e3ca7a036c15e7b0e55341963a3fb707853d8fcda35ce84aead8715329",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "geojson": {
-          "rows": 550,
-          "size_bytes": 410219,
-          "sha256": "a039c947b15aab4cbbf3ddf9c7d9087810dd62a99812e06d33f9e7d4a300fb29",
+          "rows": 579,
+          "size_bytes": 441826,
+          "sha256": "bebac72cef3e11ff4725996478a2cbcafc8f93af7c590cc056171ac7fdc0b23a",
           "valid": true,
           "errors": [],
           "warnings": [
-            "[geojson] 26 registros sin coordenadas excluidos intencionalmente (4.5%). Datos completos disponibles en JSON/CSV/XML."
+            "[geojson] 26 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML."
           ],
           "excluded_no_geometry": 26,
-          "excluded_pct": "4.51%"
+          "excluded_pct": "4.30%"
         },
         "kml": {
-          "rows": 576,
-          "size_bytes": 371539,
-          "sha256": "518d76c2b1a7ab490083d8c9032cc76be696d4fc27b0ad33d8e950d7de9b4fee",
+          "rows": 605,
+          "size_bytes": 392156,
+          "sha256": "d447a127fe6b8ad4a202444845b9659ae73b342bada1539442e7aa669bd2d602",
           "valid": true,
           "errors": [],
           "warnings": []
         },
         "gml": {
-          "rows": 576,
-          "size_bytes": 619353,
-          "sha256": "e66bdf5aa2e0eac94637a0c25d7a6a914977e63ac94001cf0390b69f111d1c52",
+          "rows": 605,
+          "size_bytes": 654450,
+          "sha256": "0c709750e73960d91cf2e7dd42151f8c69c2ef7d497000912b1305ef9ef579d2",
           "valid": true,
           "errors": [],
           "warnings": []
@@ -69,8 +69,8 @@
         "warning_count": 2,
         "errors": [],
         "warnings": [
-          "[json] Campo obligatorio \"province\" ausente en 5/576 registros (0.9%)",
-          "[geojson] 26 registros sin coordenadas excluidos intencionalmente (4.5%). Datos completos disponibles en JSON/CSV/XML."
+          "[json] Campo obligatorio \"province\" ausente en 5/605 registros (0.8%)",
+          "[geojson] 26 registros sin coordenadas excluidos intencionalmente (4.3%). Datos completos disponibles en JSON/CSV/XML."
         ]
       }
     }
@@ -79,10 +79,10 @@
     "total_datasets": 1,
     "datasets_changed": 1,
     "datasets_skipped": 0,
-    "total_source_rows": 576,
-    "total_exported_rows": 576,
+    "total_source_rows": 605,
+    "total_exported_rows": 605,
     "total_geojson_excluded": 26,
-    "geojson_excluded_pct": "4.51%",
+    "geojson_excluded_pct": "4.30%",
     "all_valid": true
   }
 }
