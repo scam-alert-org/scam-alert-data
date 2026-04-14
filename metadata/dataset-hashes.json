@@ -1,17 +1,3 @@
-{
-  "comisarias": {
-    "hash": "975c9baac4802cca64be406d1fcf56a875e017cb55915b62fab3e665ffb71641",
-    "updatedAt": "2026-04-14T21:45:23.801Z",
-    "rows": 605
-  },
-  "embajadas": {
-    "hash": "33f5e87a81e3acc4a767851d10f72171231072ce0156436614d9fd0f875bf9b7",
-    "updatedAt": "2026-04-14T21:45:23.091Z",
-    "rows": 340
-  },
-  "hospitales": {
-    "hash": "ec4eada423f05b36b222749054c4d9a027356883948ffa545c0a29bcfc0a2ece",
-    "updatedAt": "2026-04-14T21:45:23.523Z",
-    "rows": 2940
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e94c93219425a4bd573cda31d6ee86c2edaf568cd27ae1cb784e38aae566824d
+size 495
