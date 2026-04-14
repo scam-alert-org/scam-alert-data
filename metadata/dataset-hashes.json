@@ -1,7 +1,17 @@
 {
   "comisarias": {
-    "hash": "3628bd360ef8b0f5904e578a30fe5a7fc076720bc3ceb4960ae904b4f70345be",
-    "updatedAt": "2026-04-14T15:27:13.809Z",
+    "hash": "975c9baac4802cca64be406d1fcf56a875e017cb55915b62fab3e665ffb71641",
+    "updatedAt": "2026-04-14T21:45:23.801Z",
     "rows": 605
+  },
+  "embajadas": {
+    "hash": "33f5e87a81e3acc4a767851d10f72171231072ce0156436614d9fd0f875bf9b7",
+    "updatedAt": "2026-04-14T21:45:23.091Z",
+    "rows": 340
+  },
+  "hospitales": {
+    "hash": "ec4eada423f05b36b222749054c4d9a027356883948ffa545c0a29bcfc0a2ece",
+    "updatedAt": "2026-04-14T21:45:23.523Z",
+    "rows": 2940
   }
 }

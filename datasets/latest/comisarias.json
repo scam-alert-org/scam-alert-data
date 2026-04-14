@@ -15794,12 +15794,12 @@
     ],
     "contacts": [
       {
-        "kind": "phone",
-        "value": "935108157"
-      },
-      {
         "kind": "email",
         "value": "itpg31176@gencat.cat"
+      },
+      {
+        "kind": "phone",
+        "value": "935108157"
       }
     ],
     "extra": null
@@ -16488,12 +16488,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "adm_utta@ertzaintza.eus"
-      },
-      {
         "kind": "phone",
         "value": "945285400"
+      },
+      {
+        "kind": "email",
+        "value": "adm_utta@ertzaintza.eus"
       }
     ],
     "extra": {
@@ -16520,12 +16520,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "adm_uttb@ertzaintza.eus"
-      },
-      {
         "kind": "phone",
         "value": "946079034"
+      },
+      {
+        "kind": "email",
+        "value": "adm_uttb@ertzaintza.eus"
       }
     ],
     "extra": {
@@ -16552,12 +16552,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "adm_uttg@ertzaintza.eus"
-      },
-      {
         "kind": "phone",
         "value": "943539119"
+      },
+      {
+        "kind": "email",
+        "value": "adm_uttg@ertzaintza.eus"
       }
     ],
     "extra": {
@@ -16584,12 +16584,12 @@
     ],
     "contacts": [
       {
-        "kind": "email",
-        "value": "adm_uttg@ertzaintza.eus"
-      },
-      {
         "kind": "phone",
         "value": "943539119"
+      },
+      {
+        "kind": "email",
+        "value": "adm_uttg@ertzaintza.eus"
       }
     ],
     "extra": {
