@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-13T06:14:24.692Z",
-  "run_date": "2026-04-13",
+  "generated_at": "2026-04-14T15:27:13.809Z",
+  "run_date": "2026-04-14",
   "datasets": {
     "comisarias": {
       "kind": "police_station",
-      "canonical_hash": "b09abd50d69b5e706e6b88501dab3c6cfb95446a1c86b42f53ea864d684f7c3e",
+      "canonical_hash": "3628bd360ef8b0f5904e578a30fe5a7fc076720bc3ceb4960ae904b4f70345be",
       "source_rows": 605,
       "changed": true,
       "formats": {
         "json": {
           "rows": 605,
           "size_bytes": 443303,
-          "sha256": "86f334a5b10f35ef53e286bc32c8cd5f9418aac68a9fd943c6f718ab0ad7997a",
+          "sha256": "39e0e47d0451af9b7343b6df5f2e693cfe110591667d72add512e33f031a4c37",
           "valid": true,
           "errors": [],
           "warnings": [
@@ -29,7 +29,7 @@
         "xml": {
           "rows": 605,
           "size_bytes": 427722,
-          "sha256": "587f49e3ca7a036c15e7b0e55341963a3fb707853d8fcda35ce84aead8715329",
+          "sha256": "bc3443dab57040674b6c43b82e3b0953b66224b978bce113ba4bdde5001a60d7",
           "valid": true,
           "errors": [],
           "warnings": []
