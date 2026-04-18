@@ -1,6 +1,6 @@
-# Dataset Export — 2026-04-14
+# Dataset Export — 2026-04-18
 
-_Generado: 2026-04-14T23:23:23.959Z_
+_Generado: 2026-04-18T22:42:09.418Z_
 
 **Total:** 340 entidades · **GeoJSON excluidas:** 28 (8.24%) · **Datasets actualizados:** 1/1 · **Validación:** ✅ PASS
 
